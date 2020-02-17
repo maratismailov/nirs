@@ -1,0 +1,7047 @@
+TECTONICS, VOL. 29, TC6014, doi:10.1029/2010TC002772, 2010
+
+GPS velocity field for the Tien Shan and surrounding regions
+Alexander V. Zubovich,1,2 Xiao‐qiang Wang,3 Yuri G. Scherba,4
+Gennady G. Schelochkov,1 Robert Reilinger,5 Christoph Reigber,2,6 Olga I. Mosienko,1,2
+Peter Molnar,7 Wasili Michajljow,2,6 Vladimir I. Makarov,8 Jie Li,3,9 Sergey I. Kuzikov,1
+Thomas A. Herring,5 Michael W. Hamburger,10 Bradford H. Hager,5 Ya‐min Dang,11
+Vitaly D. Bragin,1 and Rinat T. Beisenbaev12
+Received 30 July 2010; revised 30 September 2010; accepted 15 October 2010; published 23 December 2010.
+
+[1] Measurements at ∼400 campaign‐style GPS points
+and another 14 continuously recording stations in central Asia define variations in their velocities both along
+and across the Kyrgyz and neighboring parts of
+Tien Shan. They show that at the longitude of Kyrgyzstan the Tarim Basin converges with Eurasia at
+20 ± 2 mm/yr, nearly two thirds of the total convergence rate between India and Eurasia at this longitude.
+This high rate suggests that the Tien Shan has grown
+into a major mountain range only late in the evolution
+of the India‐Eurasia collision. Most of the convergence
+between Tarim and Eurasia within the upper crust of
+the Tien Shan presumably occurs by slip on faults on
+the edges of and within the belt, but 1–3 mm/yr of convergence is absorbed farther north, at the Dzungarian
+Alatau and at a lower rate with the Kazakh platform
+to the west. The Tarim Basin is thrust beneath the Tien
+Shan at ∼4–7 mm/yr. With respect to Eurasia, the Ferghana Valley rotates counterclockwise at ∼0.7° Myr−1
+about an axis at the southwest end of the valley. Thus,
+GPS data place a bound of ∼4 mm/yr on the rate of crustal shortening across the Chatkal and neighboring ranges
+1
+Research Station of the Russian Academy of Sciences, Bishkek,
+Kyrgyzstan.
+2
+Department of Technical Infrastructures and Data Management, Central
+Asian Institute for Applied Geosciences, Bishkek, Kyrgyzstan.
+3
+Earthquake Administration of the Xinjiang Uygur Autonomous Region,
+Urumqi, China.
+4
+National Center of Space Researches and Technologies, National Space
+Agency of the Republic of Kazakhstan, Almaty, Kazakhstan.
+5
+Department of Earth, Atmospheric, and Planetary Sciences,
+Massachusetts Institute of Technology, Cambridge, Massachusetts, USA.
+6
+Department 1, Deutsches GeoForschungsZentrum, Potsdam, Germany.
+7
+Department of Geological Sciences and Cooperative Institute for
+Research in Environmental Sciences, University of Colorado, Boulder,
+Colorado, USA.
+8
+Institute of Environmental Geosciences, Russian Academy of Sciences,
+Moscow, Russia.
+9
+Research Center of Space Science and Technology, China University of
+Geosciences, Wuhan, China.
+10
+Department of Geological Sciences, Indiana University, Bloomington,
+Indiana, USA.
+11
+Chinese Academy of Surveying and Mapping, Beijing, China.
+12
+Seismological Experimental‐Methodical Expedition, Almaty,
+Kazakhstan.
+
+Copyright 2010 by the American Geophysical Union.
+0278‐7407/10/2010TC002772
+
+on the northwest margin of the Ferghana Valley, and
+they limit the present‐day slip rate on the right‐lateral
+Talas‐Ferghana fault to less than ∼2 mm/yr. GPS measurements corroborate geologic evidence indicating
+that the northern margin of the Pamir overthrusts the
+Alay Valley and require a rate of at least 10 and possibly 15 mm/yr. Citation: Zubovich, A. V., et al. (2010),
+GPS velocity field for the Tien Shan and surrounding regions,
+Tectonics, 29, TC6014, doi:10.1029/2010TC002772.
+
+1. Introduction
+[2] Whereas slip on a single fault at a boundary between
+oceanic plates accommodates virtually all relative motion
+between the adjacent plates, intracontinental deformation
+commonly occurs by widespread deformation and slip on
+numerous faults. This form of deformation is particularly
+apparent where mountain ranges have been built in intracontinental settings, such as that in which the Rocky
+Mountains of the western United States developed in late
+Cretaceous and early Cenozoic (Laramide) time.
+[3] The Tien Shan serves as the prototypical active
+intracontinental mountain belt. Separate ranges, bounded on
+one or both sides by reverse faults and with intermontane
+basins between them, collectively form a belt of widespread
+deformation and abundant seismicity far from boundaries of
+the major plates (Figure 1). Such belts typify active deformation elsewhere in Asia, such as in Mongolia or on the
+northeastern margin of the Tibetan Plateau, and they characterize the separate ranges that form the Andes in parts of
+Colombia, Venezuela, Peru, and Argentina. In active intracontinental belts, several faults are concurrently active; no
+single fault defines a plate boundary. Lateral continuity of
+individual ranges, however, can be short, only 100–200 km,
+and slip rates on faults within the belts vary along strike.
+[4] The Tien Shan illustrates these features. Both field
+observations of active faulting [e.g., Abdrakhmatov et al.,
+2007; Chedia, 1986; Laverov and Makarov, 2005;
+Makarov, 1977; Makarov et al., 2010; Sadybakasov, 1990;
+Shultz, 1948; Thompson et al., 2002] and fault plane solutions
+of moderate earthquakes [e.g., Ghose et al., 1998; Maggi et
+al., 2000; Nelson et al., 1987; Tapponnier and Molnar,
+1979] demonstrate largely reverse faulting, in some cases
+with modest but not negligible strike‐slip components. Four
+earthquakes with magnitudes greater than approximately
+8 have occurred within the Tien Shan since 1889 [e.g.,
+
+TC6014
+
+1 of 23
+
+TC6014
+
+ZUBOVICH ET AL.: GPS VELOCITY FIELD FOR THE TIEN SHAN
+
+TC6014
+
+Figure 1. Map of the central Tien Shan and surroundings showing topography, shallow‐focus seismicity, selected cities, and the trace of the Talas‐Ferghana fault (TFF). Gray circles show events with precise
+locations given and updated by Engdahl et al. [1998], and blue stars show events with 7 ≤ M < 8 and M ≥
+8 from Molnar and Deng [1984]. The inset shows the regional setting of the Tien Shan.
+
+Kondorskaya and Shebalin, 1977; Gu et al., 1989; Molnar
+and Ghose, 2000; Richter, 1958; Savarenskii et al., 1962].
+Studies of Quaternary faulting demonstrate slip at rates of 1
+to 4 mm/yr on several approximately parallel faults that
+divide the belt into blocks tens of kilometers in width [e.g.,
+Abdrakhmatov et al., 2007; Makarov, 1977; Thompson et
+al., 2002]. Deep basins with 2000 m or more of late Cenozoic sediment lie between ranges [e.g., Cobbold et al.,
+1996; Laverov and Makarov, 2005; Makarov, 1977;
+Sadybakasov, 1990]. East‐west dimensions of such basins
+and of the ranges between them, however, are only ∼100–
+
+300 km (Figures 1, 2, and 3). Accordingly, despite the linearity of the belt as a whole, along‐strike variations within it
+make finding a typical cross section difficult [e.g., Laverov
+and Makarov, 2005; Makarov, 1977; Sadybakasov, 1990].
+Moreover, the deep structure of the belt, as reflected in both
+crustal thickness [e.g., Kosarev et al., 1993; Oreshin et al.,
+2002; Vinnik et al., 2002] and upper mantle structure [e.g.,
+Li et al., 2009; Roecker et al., 1993; Wolfe and Vernon, 1998],
+shows marked differences both across and along the strike of
+the range.
+
+2 of 23
+
+TC6014
+
+ZUBOVICH ET AL.: GPS VELOCITY FIELD FOR THE TIEN SHAN
+
+TC6014
+
+Figure 2. Map of region with GPS points and showing names of key localities, lines of profiles in
+Figures 4, 5, 7, and 9, and regions where smaller maps are shown. The region labeled 1 is shown in
+Figure 6, and that labeled 2 is in Figure 8.
+[5] To the south of the Tien Shan, the Tarim Basin
+(Figures 1–3) appears to deform sufficiently slowly that its
+movement relative to Eurasia has been described as a rigid
+body rotation about an axis just south of the southeastern
+edge of the basin [e.g., Calais et al., 2006; England and
+Molnar, 2005; Kuzikov and Mukhamediev, 2010; Meade,
+2007; Reigber et al., 2001; Shen et al., 2001; Thatcher,
+2007]. In most such treatments, root‐mean‐square (RMS)
+differences in relative velocities among points in the basin
+are less than 2 mm/yr, and as small as 1 mm/yr for some
+studies.
+[6] At the western end of the Tien Shan, the Ferghana
+Valley (Figures 1–3) also seems to undergo only mild de-
+
+formation except on its edges [e.g., Reigber et al., 2001;
+Thomas et al., 1993; Ulomov, 1974]. Mountain ranges to the
+north of the Ferghana Valley, including the Chatkal Range,
+and to its south, the South Tien Shan, absorb relative
+movement of the basin with respect to the regions on its
+flanks. Seismicity on the edge of the valley is relatively
+high, but only sparse small earthquakes have been located
+beneath its center (Figure 1). Sediment has accumulated
+within the valley since at least Mesozoic time, and high
+terrain seems to have surrounded the region for much of that
+time [e.g., Kreydenkov and Raspopin, 1972; Kuzichkina,
+1972; Sinitsyn, 1960, pp. 101–109; Sinitsyn, 1962]. Paleomagnetic declination anomalies suggest as much as 20°–30°
+of counterclockwise rotation of the basin and the neigh-
+
+3 of 23
+
+TC6014
+
+ZUBOVICH ET AL.: GPS VELOCITY FIELD FOR THE TIEN SHAN
+
+Figure 3.
+ellipses.
+
+TC6014
+
+Map of region with GPS velocities, relative to Eurasia. Error ellipses show 95% confidence
+
+boring Chatkal Range with respect to Eurasia [Bazhenov,
+1993; Thomas et al., 1993]. Thus, the Ferghana Valley
+seems to have maintained its identity as a block since Mesozoic time.
+[7] To the west of the Tarim Basin and south of the South
+Tien Shan, the Pamir shares features that typify the Tibetan
+Plateau: a high, relatively flat plateau (Figures 2 and 3),
+where normal faulting and east‐west extension appear to
+dominate active deformation [e.g., Burtman and Molnar,
+1993; Strecker et al., 1995]. Many of the same east‐west
+trending sutures and fragments of Gondwana that had been
+accreted to Eurasia during Phanerozoic time can be identified in the Pamir and in the Hindu Kush of Afghanistan
+farther west, and it follows that the regions have undergone
+a similar geologic history, at least perhaps until the Pamir
+
+was displaced northward with respect to most of Tibet,
+presumably in Cenozoic time [e.g., Burtman and Molnar,
+1993; Schwab et al., 2004]. Both the Pamir and Hindu
+Kush are associated with intermediate‐depth seismicity,
+whose form suggests the presence of a deformed, subducted
+lithospheric slab at depth [e.g., Mellors et al., 1995; Pavlis
+and Das, 2000; Roecker, 1982; Vinnik et al., 1977]. The
+inclined zone of seismicity projects to the surface at northern
+edge of the Pamir, where concentrated shortening occurs
+along the Pamir frontal thrust zone, suggesting subduction
+of continental lithosphere beneath the Pamir [Burtman and
+Molnar, 1993; Hamburger et al., 1992; Strecker et al.,
+2003].
+[8] We present observations of present‐day surface
+motions within and around the Tien Shan based on 16 years of
+
+4 of 23
+
+TC6014
+
+ZUBOVICH ET AL.: GPS VELOCITY FIELD FOR THE TIEN SHAN
+
+geodetic measurements from a dense, regional GPS network
+(Figures 2 and 3). These data provide quantitative constraints
+on deformation rates within and around the Tien Shan and in
+turn within this type area of intracontinental mountain
+building. A few points for which we can obtain GPS velocities lie within the Pamir, and they allow us to address deformation on its eastern and northern edges.
+
+2. GPS Network and Processing
+[9] We report results from campaign measurements beginning in 1994 and from a growing number of continuously recording stations in the region since before 1994. In
+fact, the GPS network that we analyze began as three separate networks each of which grew over time (we give a
+summary of the history of these networks in the auxiliary
+material).1 Table 1 summarizes not only velocities and
+uncertainties of GPS points, but also dates of the first
+campaigns used in our determination of the velocity field,
+durations spanned by remeasurements, and numbers of
+remeasurement campaigns for each site. Table 1 updates
+results for subsets of these data analyzed earlier
+[Abdrakhmatov et al., 1996; Bogomolov et al., 2007; Bragin
+et al., 2001; Herring et al., 2002; Kuzikov and Mukhamediev,
+2010; Laverov and Makarov, 2005; Meade and Hager, 2001;
+Reigber et al., 2001; Yang et al., 2008; Zubovich et al., 2007].
+[10] We processed the GPS observations using the
+GAMIT/GLOBK software suite [Herring, 2004; King and
+Bock, 2004], and we estimated uncertainties following
+standard procedures described by Reilinger et al. [2006].
+Appendix A gives some details of the processing.
+
+3. Results
+[11] To present the velocity field we rely on both maps
+(Figures 3, 6, and 8) and profiles (Figures 4, 5, 7, and 9). We
+orient profiles perpendicular to the main structures, and plot
+separately components of velocity parallel and perpendicular to the structures, which allows convergent or divergent
+and strike‐slip components to be separated.
+3.1. Convergence Between the Tarim Basin and
+Eurasia
+[12] Perhaps the most definitive result is the demonstration that the Tarim Basin moves toward the Kazakh Platform, and hence toward the Eurasian plate, at 20 (±2) mm/yr.
+Earlier, Abdrakhmatov et al. [1996] had inferred such a rate
+by extrapolating measurements within the Kyrgyz and Kazakh side of the Tien Shan to the Tarim Basin in China.
+With GPS data from the Tarim Basin, Reigber et al. [2001]
+reported a rate of 19 ± 3 mm/yr for a station in the western
+Tarim Basin with respect to Eurasia. With more sites in both
+Tarim and especially within the stable Kazakh Platform,
+with more measurements at individual sites, and with a time
+interval spanned by initial and most recent measurements
+roughly twice that used by Reigber et al. [2001], we can
+refine the rate, as shown most clearly on profiles A‐A′ and
+1
+Auxiliary materials are available in the HTML. doi:10.1029/
+2010TC002772.
+
+TC6014
+
+B‐B′ (Figures 2 and 4). The lower rates shown for profiles C‐C′ and D‐D′ (Figures 2 and 4) derive in part from
+the southernmost points on these profiles lying within the
+deforming southern margin of the Tien Shan. Hence the
+velocities of these points with respect to Eurasia underestimate the convergence rate between Tarim and Eurasia.
+[13] As noted above, GPS data from the entire Tarim
+Basin, including a large area east of where we have data,
+show that relative to Eurasia Tarim rotates about an axis just
+south of the eastern end of the basin [e.g., Calais et al.,
+2006; England and Molnar, 2005; Kuzikov and
+Mukhamediev, 2010; Meade, 2007; Reigber et al., 2001;
+Shen et al., 2001; Thatcher, 2007]. Thus, these angular
+velocities require an eastward decrease of convergence rates
+of points in Tarim relative to Eurasia, as is apparent also for
+data along profile E‐E′ (Figures 2 and 5, blue and green
+points). These data, from the western part of Tarim, alone are
+inadequate to improve estimates of angular velocities of
+Tarim relative to Eurasia, but note that the eastward decrease
+in rates also contributes to the smaller maximum rates on
+profiles C‐C′ and D‐D′ than on profiles A‐A′ and B‐B′
+(Figure 4).
+[14] At the longitude of the Kyrgyz, or central, Tien Shan
+(∼75°E–80°E), global GPS data show that India converges
+with Eurasia at ∼33 mm/yr [Argus et al., 2010]. Thus, in this
+segment, shortening across the Tien Shan, by convergence
+between the Tarim Basin and the Kazakh Platform, absorbs
+nearly two thirds of India’s penetration into Eurasia. Although India seems to underthrust southwestern Tibet at
+∼20 mm/yr [e.g., Jade et al., 2004], the orientation of the
+Himalaya at this longitude is not perpendicular to the
+orientation of plate convergence. Thus underthrusting beneath the western Himalaya absorbs only ∼12–13 mm/yr of
+India’s convergence with Eurasia at this longitude.
+[15] Estimated amounts of Cenozoic shortening across the
+central Tien Shan do not permit shortening at an average
+rate of ∼20 mm/yr for more than ∼10 Myr, and hence suggest a much shorter duration than India has been penetrating
+into Eurasia (since ∼45–55 Ma [e.g., Garzanti and Van
+Haver, 1988; Zhu et al., 2005]). For instance, assuming
+Airy isostasy and a Cenozoic age of present‐day elevations,
+Avouac et al. [1993] inferred as much as ∼220 km of
+shortening. With present‐day knowledge of crustal thickness, however, this amount seems excessive. Using receiver
+functions from numerous seismograph stations, Oreshin et
+al. [2002] and Vinnik et al. [2002] reported crustal thicknesses of 55–65 km beneath much of the central Tien Shan,
+compared with ∼45 km not only beneath the Kazakh Platform to the north and the Tarim Basin to the south, but also
+beneath the Naryn Basin within the Tien Shan. Makarov et al.
+[2010] inferred similar crustal thicknesses from seismic reflection profiling. Even if one allowed for 20 km of excess
+crustal thickness beneath a region as wide as 200 km, if that
+thickening were due to shortening of crust 45 km thick, it
+would call for only ∼90 km of shortening. From mapping of
+structures, Abdrakhmatov et al. [2001], inferred as little as
+35–80 km of shortening across central Tien Shan in Kyrgyzstan, which constitutes roughly two thirds of the width of
+the belt. Similarly, both Chedia [1986] and Makarov [1995]
+[see also Laverov and Makarov, 2005] calculated that 50 km
+
+5 of 23
+
+TC6014
+
+TC6014
+
+ZUBOVICH ET AL.: GPS VELOCITY FIELD FOR THE TIEN SHAN
+
+Table 1. Coordinates, Velocities, Dates of Installations, and Durations of GPS Recording at Sitesa
+Name
+
+Longitude (°N)
+
+Latitude (°E)
+
+VxI
+
+VyI
+
+VxE
+
+VyE
+
+Sx
+
+Sy
+
+Cor
+
+SYear
+
+Dur
+
+n
+
+AAC4
+ABD4
+ADA4
+ADRA
+AIB4
+AKB4
+AKBA
+AKD4
+AKH4
+AKJ4
+AKK4
+AKQI
+AKS4
+AKT4
+AKTA
+AKTO
+ALA4
+ALB5
+ALD4
+ALM1
+ALT4
+ALUN
+ANA4
+AND4
+ANGR
+ARA4
+ARC4
+ARG4
+ARP4
+ARS4
+ARTUb
+ASK4
+ASP4
+ASR4
+ASS4
+AST4
+ATAI
+AWAT
+AZO4
+BAB4
+BACH
+BALH
+BAN2b
+BAR4
+BAU4
+BAY4
+BAYS
+BER4
+BES4
+BESH
+BET4
+BIN4
+BKE4
+BOK4
+BOL4
+BOR4
+BOST
+BOZ4
+BRL4
+BTK4
+BTR4
+BULU
+BUR4
+BUZ4
+BYS4
+CAR1
+CATK
+CAUV
+
+73.755
+72.050
+75.525
+70.023
+79.969
+76.956
+73.821
+80.135
+78.542
+72.145
+76.854
+78.451
+75.967
+79.851
+78.966
+75.899
+71.460
+76.167
+72.258
+69.730
+77.763
+74.244
+77.603
+69.514
+70.082
+77.750
+76.665
+79.657
+74.827
+72.982
+58.561
+73.538
+73.494
+81.105
+78.148
+76.966
+73.933
+80.393
+77.114
+73.268
+78.540
+73.980
+77.512
+77.616
+75.019
+75.083
+67.046
+75.657
+75.795
+70.524
+75.030
+79.416
+75.426
+73.212
+83.984
+73.235
+71.283
+71.792
+70.520
+70.765
+75.020
+74.951
+79.053
+76.432
+75.729
+68.104
+71.721
+72.090
+
+42.168
+41.784
+44.132
+40.800
+42.896
+42.073
+38.503
+47.882
+41.795
+41.557
+42.885
+40.942
+40.717
+43.427
+39.877
+39.196
+41.362
+42.313
+39.421
+40.829
+43.908
+40.331
+42.790
+39.737
+41.102
+41.860
+41.693
+46.649
+40.838
+41.244
+56.430
+40.075
+42.700
+50.091
+43.310
+43.059
+41.383
+40.643
+43.897
+39.513
+39.777
+45.069
+13.034
+42.008
+41.576
+41.079
+38.175
+42.957
+42.818
+40.357
+40.646
+45.137
+40.757
+42.768
+49.038
+41.648
+43.777
+41.495
+42.569
+40.048
+41.186
+38.662
+42.261
+42.811
+42.749
+41.245
+42.014
+40.199
+
+28.3
+26.0
+27.0
+26.9
+29.8
+29.1
+22.4
+24.9
+30.2
+26.2
+28.5
+29.8
+28.3
+29.7
+28.8
+30.6
+26.9
+28.6
+21.2
+27.2
+28.0
+26.5
+28.6
+27.2
+27.5
+29.5
+28.8
+27.3
+27.8
+25.6
+24.6
+29.2
+26.4
+26.5
+28.8
+27.8
+26.8
+33.4
+28.5
+25.8
+29.7
+26.7
+46.2
+28.7
+28.0
+27.4
+26.5
+27.7
+27.9
+26.5
+28.2
+26.9
+28.1
+27.0
+25.9
+27.1
+28.4
+26.2
+26.8
+27.9
+27.2
+23.6
+29.8
+27.6
+27.8
+26.4
+25.5
+26.9
+
+6.9
+5.7
+3.7
+8.9
+8.5
+10.9
+24.6
+2.1
+12.5
+6.9
+5.3
+17.3
+14.7
+6.8
+18.7
+23.6
+6.2
+7.4
+15.2
+7.3
+3.2
+16.5
+6.7
+8.6
+8.1
+11.9
+11.2
+3.2
+11.1
+8.1
+7.2
+10.8
+4.2
+0.8
+5.1
+5.7
+12.6
+17.3
+4.2
+13.5
+19.7
+3.8
+34.6
+12.0
+7.8
+11.1
+10.3
+5.1
+4.9
+9.5
+12.1
+3.9
+13.3
+4.0
+0.6
+7.6
+4.9
+6.6
+5.3
+6.5
+11.4
+24.5
+11.7
+5.0
+5.0
+6.7
+8.8
+10.8
+
+−0.1
+−2.4
+−1.2
+−1.0
+1.4
+0.7
+−6.1
+−3.0
+1.8
+−2.2
+0.1
+1.2
+−0.2
+1.3
+0.1
+2.1
+−1.4
+0.1
+−7.3
+−0.9
+−0.4
+−1.7
+0.1
+−1.2
+−0.2
+1.0
+0.3
+−0.8
+−0.7
+−2.7
+−0.9
+0.7
+−1.9
+−1.1
+0.5
+−0.3
+−1.1
+5.0
+0.2
+−2.7
+1.1
+−1.9
+19.8
+0.1
+−0.4
+−1.1
+−1.2
+−0.6
+−0.5
+−1.4
+−0.2
+−1.4
+−0.4
+−1.3
+−1.7
+−1.2
+0.3
+−2.0
+−1.2
+−0.6
+−1.1
+−5.1
+1.4
+−0.8
+−0.5
+−1.3
+−2.2
+−1.4
+
+5.0
+3.1
+2.3
+4.6
+8.3
+9.7
+21.3
+1.8
+11.7
+4.3
+4.1
+16.5
+13.3
+6.6
+18.2
+22.0
+3.5
+6.1
+12.7
+3.7
+2.4
+14.1
+5.7
+5.4
+3.9
+10.9
+10.1
+2.9
+9.4
+6.0
+1.2
+8.7
+2.0
+1.0
+4.4
+4.6
+9.3
+17.2
+3.2
+11.3
+18.9
+2.7
+33.4
+11.0
+6.2
+9.5
+5.1
+3.6
+3.5
+5.3
+10.4
+3.6
+11.9
+1.8
+1.3
+5.4
+1.8
+3.9
+2.5
+3.6
+9.7
+22.7
+11.1
+3.7
+3.4
+2.5
+4.9
+7.8
+
+0.3
+0.3
+0.4
+0.6
+0.4
+0.3
+0.6
+0.8
+0.4
+0.3
+0.4
+0.6
+0.3
+0.5
+0.5
+0.6
+0.3
+0.4
+0.6
+0.5
+0.4
+0.4
+0.3
+0.7
+0.6
+0.4
+0.7
+0.9
+0.4
+0.4
+0.4
+0.7
+0.5
+0.7
+0.5
+0.5
+0.6
+0.9
+0.4
+0.6
+0.6
+0.7
+0.6
+0.5
+0.4
+0.4
+0.6
+0.5
+0.3
+0.6
+0.4
+0.7
+0.7
+0.8
+0.7
+0.4
+0.7
+0.3
+0.6
+0.6
+0.4
+0.6
+0.4
+0.3
+0.3
+0.4
+0.6
+0.4
+
+0.3
+0.3
+0.4
+0.6
+0.4
+0.3
+0.6
+0.7
+0.4
+0.3
+0.4
+0.6
+0.3
+0.5
+0.5
+0.6
+0.3
+0.4
+0.6
+0.5
+0.4
+0.4
+0.3
+0.6
+0.6
+0.4
+0.7
+0.9
+0.4
+0.5
+0.4
+0.7
+0.5
+0.7
+0.5
+0.5
+0.6
+0.9
+0.5
+0.6
+0.6
+0.8
+0.6
+0.5
+0.4
+0.4
+0.6
+0.5
+0.3
+0.6
+0.4
+0.7
+0.7
+0.7
+0.7
+0.4
+0.7
+0.3
+0.6
+0.6
+0.4
+0.6
+0.4
+0.4
+0.3
+0.4
+0.6
+0.4
+
+0.004
+0.010
+0.000
+0.008
+0.003
+0.006
+0.004
+0.030
+−0.005
+0.011
+0.004
+0.006
+0.008
+0.002
+0.006
+0.000
+0.007
+0.013
+0.035
+−0.027
+0.003
+0.006
+0.014
+0.060
+0.003
+−0.004
+0.020
+0.067
+0.008
+0.012
+0.000
+0.058
+0.017
+0.027
+0.002
+0.009
+0.002
+0.026
+0.003
+0.028
+0.009
+0.011
+0.002
+0.036
+0.003
+0.007
+0.017
+0.014
+0.006
+0.008
+0.005
+0.036
+0.020
+−0.001
+0.007
+0.011
+0.004
+0.010
+0.018
+0.033
+0.004
+−0.004
+−0.001
+0.003
+0.004
+0.020
+0.003
+0.006
+
+1995.6
+1995.5
+1997.4
+1994.7
+1998.8
+1995.6
+1994.7
+2000.6
+1998.8
+1995.5
+1995.6
+1998.9
+1995.8
+1998.8
+1998.9
+1998.9
+1995.5
+1995.8
+1999.6
+1994.7
+1997.8
+1994.7
+1995.8
+1999.6
+1994.7
+1998.8
+2002.6
+2000.6
+1997.7
+1997.7
+1999.6
+1999.6
+1995.6
+2000.6
+1998.8
+1997.8
+1994.7
+1998.9
+1997.8
+1999.6
+1998.9
+1995.7
+2003.6
+1998.8
+1997.7
+1997.7
+1994.7
+1995.6
+1995.6
+1994.7
+1997.7
+2000.6
+2002.6
+1995.6
+2000.6
+1995.6
+1995.7
+1995.5
+1997.4
+1999.6
+1997.7
+1998.9
+1998.8
+1995.6
+1995.6
+1994.7
+1994.7
+1994.7
+
+11.1
+12.0
+9.2
+4.0
+7.8
+10.8
+4.0
+4.0
+8.0
+12.0
+10.1
+4.3
+10.8
+6.8
+6.3
+4.3
+12.0
+10.7
+4.8
+8.1
+7.8
+7.8
+10.7
+4.8
+4.0
+8.0
+3.8
+3.0
+8.9
+6.8
+7.9
+4.8
+5.9
+4.0
+6.8
+7.8
+4.0
+2.7
+7.8
+4.8
+4.3
+3.0
+3.9
+6.9
+8.9
+8.9
+4.0
+6.0
+11.1
+4.0
+8.9
+4.0
+4.0
+3.8
+4.0
+8.8
+3.0
+12.0
+5.1
+4.8
+8.9
+4.3
+8.0
+10.1
+11.1
+7.8
+4.0
+9.8
+
+6
+7
+7
+3
+8
+8
+4
+5
+5
+8
+7
+4
+10
+6
+7
+3
+8
+6
+4
+3
+6
+7
+8
+4
+3
+5
+3
+4
+7
+8
+33
+4
+4
+5
+6
+5
+3
+3
+6
+4
+3
+3
+16
+5
+9
+8
+3
+4
+6
+3
+8
+5
+4
+3
+5
+6
+3
+8
+5
+4
+9
+4
+6
+7
+5
+7
+3
+7
+
+6 of 23
+
+TC6014
+
+TC6014
+
+ZUBOVICH ET AL.: GPS VELOCITY FIELD FOR THE TIEN SHAN
+
+Table 1. (continued)
+Name
+
+Longitude (°N)
+
+Latitude (°E)
+
+VxI
+
+VyI
+
+VxE
+
+VyE
+
+Sx
+
+Sy
+
+Cor
+
+SYear
+
+Dur
+
+n
+
+CEK4
+CHA4
+CHIL
+CHK4
+CHL4
+CHLK
+CHO4
+CHR4
+CHT4
+CHU4
+CHUMb
+CHY4
+DAL4
+DANG
+DAR4
+DAT4
+DEGE
+DENA
+DJA4
+DJAN
+DJE4
+DJR4
+DNG4
+DOR4
+DRB4
+DSO4
+DUSC
+DYU4
+EGA4
+EKS4
+ELB4
+ELG4
+ELS4
+EME4
+ENG4
+ESE4
+GAK4
+GARA
+GAZE
+GBL4
+GKO4
+GKU4
+GSO4
+GTA4
+GUAOb
+HEB4
+HOK4
+HON4
+HRT4
+HYDEb
+IISCb
+IKZ4
+ILI4
+INY4
+IRKTb
+ISH4
+ISY5
+JAM4
+JANG
+JAP4
+JET4
+JIAS
+JJO4
+JLK4
+JNI4
+JUA4
+K031
+K051
+
+75.750
+71.721
+78.878
+77.739
+77.845
+78.373
+77.075
+78.976
+76.052
+74.002
+74.751
+72.875
+78.457
+69.200
+75.041
+72.286
+75.766
+67.880
+76.498
+66.106
+73.956
+74.469
+73.619
+79.877
+69.128
+78.668
+68.625
+74.366
+76.367
+76.742
+76.468
+74.215
+75.051
+74.452
+76.422
+80.308
+84.931
+68.515
+75.479
+78.787
+76.725
+78.921
+78.621
+77.139
+87.177
+83.590
+76.767
+73.802
+73.067
+78.551
+77.570
+73.796
+78.188
+79.070
+104.316
+78.210
+77.490
+71.526
+70.804
+78.681
+78.274
+76.734
+75.334
+73.686
+78.224
+75.645
+61.594
+66.316
+
+40.686
+42.015
+43.584
+41.527
+43.267
+43.529
+42.719
+43.271
+41.334
+43.423
+42.999
+41.966
+43.137
+38.043
+40.782
+39.573
+43.245
+38.235
+41.245
+38.338
+41.896
+40.987
+40.925
+43.380
+41.552
+43.432
+38.516
+41.476
+43.005
+42.070
+41.820
+42.618
+42.624
+41.821
+41.494
+43.061
+48.221
+37.642
+38.853
+43.664
+42.171
+43.039
+43.546
+42.071
+43.471
+49.828
+42.641
+42.426
+42.493
+17.417
+13.021
+39.654
+43.953
+42.015
+52.219
+41.601
+43.261
+42.908
+41.533
+43.254
+42.297
+39.497
+43.011
+40.637
+43.104
+42.105
+51.835
+51.751
+
+28.6
+27.0
+29.0
+29.3
+28.3
+28.9
+28.6
+29.6
+28.2
+27.2
+26.9
+27.6
+29.5
+17.8
+28.0
+26.4
+27.4
+26.6
+28.1
+24.6
+27.7
+27.7
+25.5
+29.8
+25.6
+29.0
+22.6
+26.8
+26.6
+28.9
+28.0
+27.3
+27.8
+27.5
+29.0
+30.1
+27.6
+20.3
+28.8
+29.0
+28.5
+29.4
+29.2
+28.8
+31.2
+25.5
+28.8
+27.6
+27.4
+42.3
+43.2
+29.0
+27.6
+30.2
+25.2
+30.1
+28.1
+26.8
+26.3
+29.5
+28.5
+26.6
+27.2
+25.5
+28.8
+27.5
+27.3
+27.0
+
+14.3
+5.2
+8.4
+13.7
+5.7
+4.8
+6.8
+6.3
+13.2
+3.6
+3.8
+5.2
+6.5
+16.5
+12.1
+11.2
+4.1
+8.0
+14.4
+12.0
+7.2
+10.9
+11.2
+7.4
+6.2
+5.7
+15.4
+8.5
+5.0
+10.4
+10.8
+5.6
+5.9
+8.2
+13.8
+7.5
+3.1
+10.4
+24.7
+6.8
+9.2
+6.7
+5.7
+10.9
+6.9
+0.0
+6.1
+4.4
+5.0
+34.0
+35.8
+13.2
+3.9
+12.2
+−5.5
+13.2
+5.6
+4.8
+8.4
+5.6
+11.6
+20.8
+4.3
+11.0
+5.7
+8.2
+5.8
+6.2
+
+0.1
+−1.4
+1.1
+0.9
+0.0
+0.5
+0.3
+1.2
+−0.4
+−1.1
+−1.4
+−0.7
+1.2
+−9.6
+−0.5
+−2.1
+−0.8
+−1.1
+−0.4
+−2.9
+−0.8
+−0.9
+−2.9
+1.5
+−2.6
+0.7
+−9.4
+−1.6
+−1.7
+0.5
+−0.5
+−1.0
+−0.6
+−0.9
+0.3
+1.6
+−0.1
+−7.9
+0.1
+0.8
+0.1
+1.1
+0.8
+0.3
+3.3
+−2.0
+0.6
+−0.8
+−0.9
+14.9
+16.3
+0.7
+−0.6
+1.9
+−0.8
+1.7
+−0.2
+−1.5
+−1.6
+1.0
+0.1
+−2.1
+−1.1
+−2.8
+0.5
+−0.8
+0.6
+0.1
+
+12.9
+2.7
+6.4
+12.7
+4.8
+4.4
+5.7
+5.7
+11.9
+1.8
+2.0
+2.9
+5.8
+10.9
+10.4
+8.7
+2.6
+3.8
+13.2
+6.7
+5.3
+9.2
+9.4
+7.0
+2.8
+5.1
+12.7
+6.7
+3.7
+9.2
+9.5
+3.7
+4.2
+6.3
+12.6
+7.3
+4.4
+5.8
+23.2
+6.1
+8.1
+6.2
+4.9
+9.7
+8.5
+0.7
+4.8
+2.4
+2.8
+33.1
+34.8
+11.0
+3.1
+11.6
+0.6
+12.4
+4.7
+2.0
+4.4
+5.0
+10.8
+19.3
+2.8
+8.9
+5.0
+6.6
+0.8
+2.4
+
+0.7
+0.5
+0.6
+0.6
+0.4
+0.7
+0.3
+0.4
+0.7
+0.4
+0.3
+0.4
+0.4
+0.9
+0.4
+0.6
+0.5
+0.5
+0.7
+0.6
+0.3
+0.5
+0.6
+0.6
+0.9
+0.4
+0.9
+0.4
+0.6
+0.3
+0.3
+0.3
+0.5
+0.3
+0.7
+0.4
+0.7
+0.6
+0.5
+0.7
+0.4
+0.4
+0.4
+0.4
+0.5
+0.7
+0.3
+0.3
+0.3
+0.6
+0.3
+0.7
+0.7
+0.3
+0.3
+0.4
+0.6
+0.6
+0.6
+0.4
+0.4
+0.6
+0.4
+0.5
+0.4
+0.3
+0.9
+1.0
+
+0.7
+0.5
+0.6
+0.6
+0.5
+0.7
+0.3
+0.4
+0.7
+0.4
+0.3
+0.4
+0.4
+0.9
+0.4
+0.6
+0.5
+0.4
+0.7
+0.6
+0.3
+0.5
+0.6
+0.7
+0.8
+0.4
+0.9
+0.4
+0.6
+0.3
+0.3
+0.3
+0.5
+0.3
+0.7
+0.4
+0.7
+0.6
+0.5
+0.7
+0.4
+0.4
+0.4
+0.4
+0.5
+0.7
+0.3
+0.3
+0.3
+0.5
+0.3
+0.6
+0.7
+0.3
+0.3
+0.5
+0.8
+0.5
+0.6
+0.4
+0.4
+0.6
+0.4
+0.5
+0.5
+0.3
+0.7
+0.7
+
+0.021
+0.019
+0.006
+0.007
+0.002
+0.005
+0.018
+0.001
+0.019
+−0.005
+0.003
+0.005
+0.000
+0.022
+0.005
+0.031
+0.012
+0.016
+0.012
+0.020
+0.005
+0.006
+0.008
+0.028
+0.071
+0.004
+0.026
+0.000
+0.020
+0.008
+0.006
+0.007
+0.007
+0.005
+0.025
+0.001
+0.019
+0.012
+−0.002
+0.014
+0.009
+0.003
+0.005
+0.009
+0.002
+0.004
+0.010
+−0.006
+0.008
+0.001
+−0.001
+0.003
+0.023
+0.003
+−0.004
+−0.002
+0.038
+0.013
+0.003
+0.003
+0.003
+−0.013
+0.000
+0.004
+0.004
+0.014
+−0.011
+0.019
+
+2002.6
+1995.5
+1994.7
+1998.8
+1997.8
+2004.4
+1995.8
+1997.8
+2002.6
+1997.4
+1997.7
+1995.5
+1997.8
+1994.7
+1997.7
+1999.6
+1995.5
+1994.7
+2002.6
+1994.7
+1995.6
+2000.5
+2000.5
+1998.8
+1999.5
+1998.8
+1994.7
+1997.7
+1995.6
+1995.6
+1995.6
+1995.6
+1995.6
+1995.6
+2002.6
+1998.8
+2000.6
+1994.7
+1998.9
+1998.8
+1999.5
+1998.8
+1998.8
+1998.8
+2002.5
+2000.6
+1995.6
+1995.6
+1995.6
+2003.6
+1995.5
+1999.6
+1998.8
+1995.8
+1995.8
+1998.8
+1997.8
+1997.4
+1994.7
+1998.8
+1995.8
+1998.9
+1995.6
+1997.7
+1998.8
+1995.5
+1998.6
+1998.6
+
+4.0
+6.2
+4.0
+4.9
+7.8
+2.1
+10.7
+8.8
+4.0
+8.2
+9.8
+9.3
+8.8
+2.0
+8.9
+4.8
+7.0
+8.1
+4.0
+4.0
+11.1
+6.1
+4.3
+4.8
+3.0
+7.8
+2.0
+9.1
+4.1
+10.8
+11.1
+9.8
+6.1
+11.1
+3.8
+7.8
+4.0
+4.0
+6.3
+3.7
+7.0
+7.8
+7.8
+7.7
+5.0
+4.0
+10.8
+11.1
+11.8
+3.9
+12.0
+4.8
+3.7
+10.9
+11.7
+8.0
+5.7
+5.1
+4.0
+7.8
+7.9
+4.3
+11.0
+4.8
+6.8
+11.1
+4.0
+4.0
+
+4
+5
+3
+4
+5
+4
+8
+10
+5
+5
+35
+7
+10
+3
+8
+4
+7
+4
+4
+3
+6
+5
+4
+4
+4
+10
+3
+8
+3
+9
+7
+6
+4
+6
+3
+8
+5
+3
+7
+4
+6
+9
+7
+7
+18
+5
+7
+4
+5
+16
+47
+4
+3
+7
+43
+5
+4
+5
+4
+14
+6
+4
+6
+7
+6
+9
+3
+3
+
+7 of 23
+
+TC6014
+
+TC6014
+
+ZUBOVICH ET AL.: GPS VELOCITY FIELD FOR THE TIEN SHAN
+
+Table 1. (continued)
+Name
+
+Longitude (°N)
+
+Latitude (°E)
+
+VxI
+
+VyI
+
+VxE
+
+VyE
+
+Sx
+
+Sy
+
+Cor
+
+SYear
+
+Dur
+
+n
+
+K071
+K081
+K091
+K100
+K111
+K121
+K131
+K141
+K151
+K161
+K171
+K181
+K191
+K201
+K211
+K221
+K231
+K241
+KAB4
+KAI4
+KAK1
+KAL4
+KALA
+KALP
+KAR4
+KARA
+KARL
+KAS4
+KAST
+KASU
+KAT4
+KAZAb
+KAZY
+KBU4
+KEK4
+KELI
+KEN4
+KET4
+KFIR
+KHA4
+KHZ4
+KIN4
+KIT3b
+KIZI
+KJA6
+KKA4
+KKB4
+KKC4
+KKD4
+KKO4
+KKT4
+KKY4
+KLM4
+KNG4
+KNS4
+KOG4
+KOK4
+KOL4
+KOR4
+KOS4
+KOVK
+KOY4
+KRB4
+KRC4
+KRK4
+KRL6
+KRM4
+
+65.795
+70.019
+66.462
+67.176
+69.034
+69.650
+70.285
+74.010
+71.848
+73.660
+74.571
+73.553
+75.783
+78.900
+78.406
+76.064
+75.844
+80.047
+81.609
+76.101
+72.904
+76.397
+78.037
+79.035
+76.776
+70.963
+73.460
+75.443
+75.967
+76.840
+80.008
+73.944
+69.824
+71.579
+76.057
+77.906
+72.367
+80.355
+67.868
+73.672
+72.297
+74.066
+66.885
+76.463
+73.190
+72.894
+72.735
+74.928
+76.205
+75.146
+70.222
+75.550
+70.975
+71.464
+78.825
+76.408
+78.646
+79.885
+84.959
+76.520
+73.881
+79.092
+76.072
+85.066
+71.904
+76.434
+78.161
+
+48.052
+49.013
+47.828
+44.401
+43.376
+43.504
+53.126
+51.694
+51.338
+49.407
+46.908
+45.755
+50.808
+50.168
+49.194
+49.385
+47.852
+49.065
+49.528
+41.173
+42.806
+42.306
+39.714
+40.503
+41.733
+39.959
+38.957
+42.300
+43.045
+41.132
+42.740
+41.385
+42.036
+42.202
+42.759
+37.258
+42.593
+43.400
+37.838
+44.380
+40.362
+42.204
+39.135
+38.656
+41.001
+41.695
+39.678
+41.737
+41.902
+42.257
+43.271
+41.018
+39.742
+39.875
+43.024
+41.892
+43.452
+46.959
+49.412
+40.918
+41.808
+42.166
+41.781
+48.797
+39.494
+41.122
+43.483
+
+27.0
+26.1
+26.6
+25.8
+26.3
+27.2
+26.8
+27.0
+27.0
+27.2
+28.1
+28.2
+26.7
+26.3
+25.7
+26.9
+27.0
+28.2
+26.3
+27.5
+27.4
+29.0
+29.6
+29.4
+28.6
+28.3
+21.8
+28.3
+27.2
+28.4
+30.2
+26.4
+26.3
+27.1
+28.3
+25.7
+27.2
+30.2
+10.5
+27.8
+28.0
+27.6
+27.6
+27.1
+25.8
+27.0
+27.6
+28.1
+27.9
+27.8
+27.1
+27.5
+27.8
+27.4
+29.5
+27.2
+29.1
+24.9
+25.3
+28.5
+27.4
+30.1
+28.3
+25.1
+27.1
+27.9
+28.7
+
+5.2
+3.1
+4.3
+5.7
+5.2
+5.1
+3.7
+2.2
+3.4
+2.4
+2.5
+2.8
+1.7
+1.4
+2.5
+3.0
+0.8
+1.3
+1.7
+14.1
+6.2
+7.2
+20.1
+16.4
+12.2
+12.6
+27.4
+6.5
+5.8
+14.4
+10.0
+10.0
+5.6
+4.9
+4.7
+22.2
+4.7
+6.9
+8.1
+3.1
+8.6
+6.1
+6.1
+22.8
+10.0
+7.2
+10.8
+7.9
+10.7
+6.8
+5.4
+12.3
+8.6
+9.4
+6.7
+11.1
+5.3
+1.8
+0.4
+15.3
+6.3
+11.8
+10.4
+0.7
+8.9
+14.0
+4.7
+
+−0.5
+−1.5
+−1.0
+−2.2
+−1.8
+−0.9
+−0.2
+−0.3
+−0.3
+−0.4
+0.1
+0.2
+−0.7
+−1.3
+−2.0
+−0.7
+−0.8
+0.5
+−1.1
+−0.8
+−0.6
+0.5
+1.0
+0.8
+0.2
+0.3
+−6.7
+−0.1
+−1.2
+0.1
+1.9
+−2.0
+−1.9
+−1.1
+−0.1
+−3.0
+−1.0
+1.8
+−17.6
+−0.4
+−0.5
+−0.8
+−0.7
+−1.7
+−2.7
+−1.3
+−1.0
+−0.5
+−0.5
+−0.6
+−1.1
+−1.0
+−0.7
+−1.1
+1.1
+−1.3
+0.7
+−2.8
+−2.0
+−0.1
+−1.1
+1.8
+−0.2
+−2.6
+−1.4
+−0.6
+0.4
+
+1.2
+0.2
+0.5
+2.1
+2.1
+2.1
+1.1
+0.4
+1.1
+0.5
+0.9
+0.9
+0.5
+1.0
+1.9
+1.8
+−0.5
+1.3
+1.9
+12.5
+3.2
+5.9
+19.2
+15.6
+10.9
+8.6
+24.1
+5.1
+4.8
+12.8
+9.8
+8.0
+2.3
+2.3
+3.3
+21.3
+2.2
+6.9
+3.3
+1.2
+6.1
+4.2
+2.2
+21.4
+8.0
+4.9
+8.3
+6.3
+9.3
+5.2
+2.4
+10.9
+5.7
+6.7
+6.0
+9.9
+4.7
+1.6
+1.4
+14.0
+4.4
+11.4
+8.9
+1.7
+6.3
+12.5
+4.0
+
+0.8
+0.8
+0.9
+0.8
+0.9
+1.0
+0.8
+0.9
+0.7
+0.9
+0.7
+0.7
+0.8
+0.7
+0.8
+0.7
+0.7
+0.7
+0.8
+0.5
+0.4
+0.4
+0.6
+0.6
+0.4
+0.6
+0.6
+0.3
+0.7
+0.3
+0.7
+0.3
+0.4
+0.3
+0.5
+1.0
+0.3
+0.5
+0.6
+0.5
+0.6
+0.3
+0.3
+0.5
+0.5
+0.4
+0.6
+0.4
+0.5
+0.4
+0.6
+0.8
+0.6
+0.6
+0.4
+0.7
+0.4
+0.8
+0.7
+0.7
+0.5
+0.3
+0.3
+0.9
+0.6
+0.4
+0.6
+
+0.7
+0.7
+0.7
+0.8
+0.8
+0.8
+0.6
+0.7
+0.7
+0.7
+0.7
+0.7
+0.7
+0.7
+0.8
+0.7
+0.7
+0.7
+0.7
+0.5
+0.4
+0.4
+0.6
+0.6
+0.4
+0.6
+0.6
+0.3
+0.8
+0.3
+0.6
+0.3
+0.4
+0.4
+0.5
+0.8
+0.3
+0.5
+0.6
+0.6
+0.6
+0.3
+0.3
+0.5
+0.5
+0.4
+0.6
+0.4
+0.5
+0.4
+0.6
+0.7
+0.6
+0.6
+0.4
+0.7
+0.4
+0.8
+0.7
+0.7
+0.5
+0.3
+0.3
+0.9
+0.6
+0.4
+0.6
+
+0.037
+0.017
+0.042
+0.022
+0.025
+0.040
+0.041
+0.025
+0.018
+0.055
+0.025
+0.018
+0.021
+0.042
+0.058
+0.028
+0.020
+0.025
+0.019
+0.024
+0.008
+0.008
+0.010
+0.007
+0.019
+0.004
+0.007
+0.006
+0.005
+0.005
+0.017
+0.002
+0.017
+0.008
+0.014
+0.021
+0.011
+0.005
+0.014
+0.005
+0.038
+0.002
+0.000
+0.002
+−0.015
+0.014
+0.025
+0.001
+0.023
+0.010
+0.009
+0.029
+0.028
+0.031
+0.001
+0.024
+0.003
+0.035
+0.013
+0.010
+0.015
+0.010
+0.004
+0.049
+0.048
+0.008
+0.014
+
+1998.6
+1998.6
+1998.6
+1998.6
+1998.6
+1998.6
+1998.6
+1998.6
+1998.6
+1998.6
+1998.6
+1998.6
+1998.6
+1998.6
+1998.6
+1998.6
+1998.6
+1998.6
+2000.6
+1995.8
+1994.7
+1999.5
+1998.9
+1998.9
+1995.8
+1994.7
+1994.7
+1995.6
+2004.4
+1994.7
+1998.8
+1997.7
+1995.5
+1995.5
+1995.8
+1998.9
+1995.5
+1998.8
+1994.7
+1997.4
+1999.6
+1995.6
+1995.5
+1998.9
+1997.7
+1995.5
+1999.6
+1997.7
+1995.8
+1995.5
+1997.4
+1998.8
+1999.6
+1999.6
+1997.8
+2002.6
+1997.8
+2000.6
+2000.6
+2002.6
+1999.8
+1995.8
+1995.6
+2000.6
+1999.6
+1995.8
+1997.8
+
+4.0
+4.0
+4.0
+3.9
+2.9
+2.9
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+6.9
+7.8
+7.0
+4.3
+4.3
+10.7
+4.0
+4.0
+11.1
+2.1
+11.9
+4.8
+9.8
+7.0
+12.0
+6.0
+2.7
+12.0
+6.8
+4.0
+5.1
+4.8
+11.1
+12.0
+6.3
+7.1
+8.9
+4.8
+9.1
+6.9
+10.1
+5.1
+3.9
+4.8
+4.8
+8.8
+3.8
+8.8
+3.0
+4.0
+4.0
+5.8
+10.9
+11.1
+3.0
+4.8
+10.8
+4.7
+
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+5
+7
+10
+4
+4
+3
+6
+3
+3
+6
+4
+8
+5
+33
+8
+6
+4
+4
+7
+6
+3
+4
+4
+6
+44
+7
+5
+7
+4
+8
+5
+7
+5
+4
+4
+4
+9
+3
+12
+4
+5
+4
+3
+7
+7
+4
+4
+6
+4
+
+8 of 23
+
+TC6014
+
+TC6014
+
+ZUBOVICH ET AL.: GPS VELOCITY FIELD FOR THE TIEN SHAN
+
+Table 1. (continued)
+Name
+
+Longitude (°N)
+
+Latitude (°E)
+
+VxI
+
+VyI
+
+VxE
+
+VyE
+
+Sx
+
+Sy
+
+Cor
+
+SYear
+
+Dur
+
+n
+
+KRS4
+KRT4
+KRTVb
+KRU4
+KRV4
+KSH4
+KSHIb
+KST4
+KSTUb
+KTA4
+KTAU
+KTE4
+KTSS
+KTY4
+KUD4
+KUK4
+KUL4
+KUM4
+KUN4
+KUR4
+KURA
+KURG
+KURY
+KUT4
+KYZ4
+KYZY
+KZY4
+KZZ4
+LAM4
+LEDI
+LHASb
+LHAZb
+LJM4
+MARK
+MAT4
+MAY1
+MDG4
+MER4
+MKR4
+MNJ4
+MOL4
+MUD4
+MUJI
+MUN4
+MURG
+MUS4
+NAR5
+NBA4
+NGS4
+NJK4
+NJT4
+NKR4
+NKU4
+NRILb
+NRK4
+NSB4
+NTE4
+NTP4
+NVSKb
+OBO4
+OGI4
+OKI4
+OKT1
+ONA4
+ORGO
+OSH4
+OTM4
+
+79.926
+75.048
+78.619
+76.443
+73.667
+77.744
+75.923
+83.998
+92.794
+70.940
+70.940
+76.387
+73.385
+76.198
+79.858
+75.761
+76.298
+70.601
+75.569
+75.086
+72.832
+68.715
+76.339
+76.339
+75.135
+73.323
+75.977
+78.314
+69.933
+68.526
+91.104
+91.104
+73.221
+77.624
+78.501
+76.478
+70.157
+73.341
+73.045
+79.323
+75.038
+76.572
+74.427
+78.112
+73.796
+73.318
+76.255
+80.000
+75.730
+77.946
+78.238
+79.210
+78.284
+88.360
+74.690
+73.763
+79.210
+78.374
+83.235
+75.849
+74.549
+73.933
+67.670
+75.983
+77.918
+72.743
+73.201
+
+43.027
+41.487
+50.714
+40.734
+41.344
+44.592
+39.517
+47.670
+55.993
+42.783
+42.783
+42.619
+45.785
+42.895
+43.630
+41.749
+40.816
+41.669
+41.358
+43.379
+43.253
+37.874
+43.894
+43.894
+42.092
+39.379
+40.523
+43.522
+39.774
+38.323
+29.657
+29.657
+41.572
+38.904
+44.225
+43.155
+40.035
+42.524
+42.248
+42.757
+41.669
+41.129
+39.024
+42.439
+38.137
+42.175
+41.446
+42.599
+41.875
+42.248
+42.406
+42.665
+43.013
+69.362
+41.820
+40.880
+43.139
+42.684
+54.841
+41.433
+42.040
+41.383
+40.291
+41.577
+42.440
+40.522
+42.235
+
+29.7
+27.8
+26.6
+28.5
+27.0
+25.9
+31.0
+27.0
+24.8
+26.8
+26.2
+28.8
+28.0
+27.6
+29.7
+28.8
+28.8
+26.8
+27.6
+26.9
+26.9
+18.9
+27.8
+26.9
+27.7
+23.1
+29.6
+29.8
+27.8
+20.2
+46.1
+46.3
+27.3
+27.9
+27.4
+27.5
+28.1
+26.9
+27.7
+29.2
+27.8
+27.3
+22.7
+28.5
+22.1
+28.4
+28.2
+30.8
+27.5
+28.1
+27.0
+29.3
+32.6
+21.6
+27.8
+25.6
+29.5
+28.4
+26.2
+27.7
+28.0
+27.1
+27.0
+27.8
+28.0
+26.8
+27.8
+
+7.4
+9.0
+2.4
+14.7
+8.3
+3.5
+19.8
+2.6
+−3.1
+3.8
+4.5
+6.2
+6.4
+4.5
+7.3
+9.1
+14.3
+5.5
+11.8
+3.8
+4.4
+11.9
+3.1
+3.2
+7.5
+19.1
+13.9
+5.6
+7.2
+8.9
+16.8
+17.2
+8.1
+22.1
+3.4
+5.5
+5.4
+4.5
+5.2
+10.5
+8.4
+14.0
+20.7
+10.8
+26.5
+5.8
+12.5
+10.8
+8.6
+11.9
+11.7
+11.0
+6.3
+−1.0
+8.2
+11.3
+7.1
+8.4
+0.5
+12.8
+6.8
+9.5
+7.8
+10.4
+10.5
+9.6
+5.0
+
+1.4
+−0.7
+−0.8
+−0.1
+−1.6
+−2.2
+2.4
+−0.8
+−1.4
+−1.4
+−2.1
+0.4
+0.6
+−0.8
+1.4
+0.5
+0.4
+−1.4
+−0.8
+−1.4
+−1.2
+−8.8
+−0.6
+−1.2
+−0.7
+−5.0
+1.1
+1.7
+−0.8
+−8.0
+17.4
+17.5
+−1.1
+−0.8
+−1.1
+−0.6
+−0.3
+−1.1
+−0.6
+0.8
+−0.7
+−1.2
+−5.9
+0.1
+−6.2
+0.1
+−0.3
+2.4
+−0.9
+−0.4
+−1.3
+0.9
+4.2
+−1.4
+−0.7
+−2.9
+1.1
+−0.1
+−0.6
+−0.8
+−0.5
+−1.4
+−1.1
+−0.8
+−0.5
+−1.6
+−0.4
+
+7.1
+7.4
+1.7
+13.3
+6.4
+2.7
+18.3
+3.3
+0.3
+1.1
+1.7
+4.9
+3.0
+3.1
+7.1
+7.6
+13.0
+2.5
+10.2
+2.3
+1.7
+7.9
+2.2
+2.0
+5.8
+16.4
+12.5
+4.7
+4.1
+4.1
+19.4
+19.7
+5.9
+20.9
+2.8
+3.7
+2.4
+2.3
+3.0
+10.1
+6.7
+12.7
+19.0
+10.0
+23.1
+3.6
+11.0
+10.5
+7.1
+11.1
+10.9
+10.3
+5.6
+1.2
+6.5
+9.2
+6.6
+7.5
+1.0
+11.4
+5.0
+7.5
+3.6
+9.1
+9.6
+7.3
+2.7
+
+0.4
+0.4
+0.4
+0.7
+0.5
+0.6
+0.4
+0.7
+0.4
+0.6
+0.7
+0.4
+0.6
+0.5
+0.7
+0.8
+0.3
+0.3
+0.3
+0.3
+0.7
+0.8
+0.8
+0.4
+0.3
+0.7
+0.7
+0.7
+0.6
+0.6
+0.3
+0.5
+0.4
+0.6
+0.6
+0.4
+0.6
+0.5
+0.4
+0.5
+0.3
+0.9
+0.5
+0.4
+0.6
+0.4
+0.4
+0.7
+0.8
+0.4
+0.8
+0.4
+0.7
+0.4
+0.4
+0.4
+0.4
+0.4
+0.4
+0.7
+0.3
+0.3
+0.4
+0.8
+0.3
+0.4
+0.3
+
+0.4
+0.4
+0.4
+0.7
+0.5
+0.7
+0.4
+0.7
+0.4
+0.6
+0.6
+0.4
+0.6
+0.5
+0.7
+0.8
+0.3
+0.3
+0.3
+0.4
+0.7
+0.8
+0.8
+0.4
+0.3
+0.7
+0.7
+0.7
+0.6
+0.6
+0.3
+0.5
+0.4
+0.6
+0.6
+0.4
+0.6
+0.5
+0.4
+0.5
+0.3
+0.9
+0.4
+0.4
+0.6
+0.4
+0.4
+0.7
+0.8
+0.4
+0.8
+0.4
+0.7
+0.4
+0.4
+0.4
+0.4
+0.4
+0.4
+0.7
+0.3
+0.3
+0.4
+0.8
+0.3
+0.5
+0.3
+
+0.005
+0.005
+0.003
+0.012
+0.000
+0.026
+0.003
+0.022
+0.002
+0.005
+0.082
+0.022
+0.001
+0.011
+0.020
+0.050
+0.010
+0.007
+0.012
+0.000
+0.003
+0.016
+0.008
+−0.001
+0.006
+0.015
+0.019
+0.014
+0.057
+0.012
+0.000
+−0.002
+0.012
+0.016
+0.015
+0.007
+0.033
+0.010
+0.009
+0.001
+0.004
+0.047
+0.000
+−0.004
+0.005
+0.007
+0.016
+0.012
+0.003
+−0.004
+0.012
+0.004
+0.023
+0.000
+−0.001
+−0.003
+0.004
+0.002
+0.007
+0.025
+0.005
+0.005
+0.003
+0.035
+0.003
+0.013
+0.011
+
+1998.8
+1997.7
+2000.7
+2002.6
+2000.5
+2000.6
+1998.9
+2000.6
+1997.7
+1997.4
+1995.5
+1995.6
+1994.7
+1995.6
+1998.8
+2002.6
+1995.8
+1995.5
+1995.8
+1995.5
+1995.7
+1994.7
+2004.4
+1997.4
+1995.5
+1995.7
+2002.6
+1998.8
+1999.6
+1994.7
+1995.5
+2002.5
+1996.7
+1998.9
+2000.6
+1994.7
+1999.6
+1995.6
+1995.6
+1998.8
+1995.5
+2002.6
+1998.9
+1998.8
+1994.7
+1995.6
+1995.8
+1998.8
+2002.6
+1998.8
+1998.8
+1998.8
+1998.8
+2001.3
+1997.7
+1997.7
+1998.8
+1998.8
+2000.6
+2002.6
+1995.6
+1995.6
+1994.7
+2002.6
+1995.5
+1997.7
+1995.5
+
+7.8
+8.9
+6.7
+4.0
+6.1
+4.0
+6.3
+4.0
+7.1
+4.3
+7.0
+10.8
+4.0
+6.1
+3.7
+3.8
+10.8
+12.0
+10.7
+11.1
+3.0
+4.0
+2.1
+9.2
+11.2
+3.0
+4.0
+3.7
+4.8
+4.0
+11.2
+5.0
+7.7
+4.3
+5.0
+8.0
+4.8
+6.8
+9.9
+5.8
+11.2
+2.9
+6.3
+8.0
+4.0
+9.9
+10.7
+3.7
+3.8
+8.0
+2.7
+8.0
+3.9
+6.2
+9.1
+7.1
+7.8
+8.0
+6.8
+3.8
+11.1
+11.0
+8.1
+3.8
+11.2
+6.8
+12.0
+
+9
+8
+19
+4
+4
+5
+5
+5
+28
+4
+5
+4
+3
+5
+4
+3
+9
+8
+9
+7
+3
+3
+4
+7
+8
+3
+4
+5
+4
+3
+46
+17
+6
+4
+6
+10
+4
+5
+5
+6
+8
+3
+7
+7
+4
+6
+8
+4
+3
+6
+4
+6
+5
+26
+8
+7
+8
+7
+24
+4
+5
+8
+4
+4
+6
+8
+8
+
+9 of 23
+
+TC6014
+
+TC6014
+
+ZUBOVICH ET AL.: GPS VELOCITY FIELD FOR THE TIEN SHAN
+
+Table 1. (continued)
+Name
+
+Longitude (°N)
+
+Latitude (°E)
+
+VxI
+
+VyI
+
+VxE
+
+VyE
+
+Sx
+
+Sy
+
+Cor
+
+SYear
+
+Dur
+
+n
+
+OTTU
+OYT4
+PAK4
+PAN0
+PCH4
+PDB4
+PISH
+PKZ4
+PODGb
+POL2b
+PPR4
+PSE4
+PSH4
+PTO4
+PTU4
+PUR4
+QIAK
+QIQI
+RAL4
+RAS4
+RGA4
+RKA4
+RKR4
+RKT4
+RSO4
+RSR4
+RTC4
+RTR4
+RTS4
+RYB4
+SAAZ
+SAK4
+SAL4
+SAN1
+SAN4
+SAR4
+SARY
+SAS4
+SAST
+SATY
+SAUK
+SBA4
+SDT4
+SDY4
+SELEb
+SEM4
+SEX4
+SGD4
+SHA5
+SHAC
+SHB4
+SHD4
+SHE4
+SHI4
+SHL4
+SHY5
+SJK4
+SKA4
+SKR4
+SKT4
+SLP4
+SME4
+SMO4
+SON4
+SOS4
+SRB4
+SRT4
+
+75.827
+74.076
+75.130
+80.040
+79.060
+80.228
+78.246
+78.076
+79.485
+74.694
+78.292
+82.598
+78.926
+78.861
+75.088
+73.627
+75.404
+76.978
+74.252
+82.306
+75.195
+79.142
+74.742
+79.066
+75.370
+75.732
+70.391
+72.667
+78.906
+76.103
+79.740
+76.715
+82.550
+68.246
+70.881
+85.794
+71.701
+78.972
+70.024
+78.408
+72.248
+80.117
+81.186
+74.153
+77.017
+76.045
+78.742
+78.813
+75.397
+77.248
+72.080
+80.487
+78.936
+71.532
+79.304
+72.789
+77.959
+72.920
+79.322
+76.354
+83.491
+75.772
+77.627
+75.423
+73.901
+78.307
+78.275
+
+41.655
+40.436
+40.848
+43.994
+42.396
+43.756
+37.559
+43.208
+43.328
+42.680
+42.547
+50.357
+42.721
+42.620
+40.578
+41.288
+40.094
+40.844
+41.912
+46.121
+43.174
+41.964
+41.726
+42.121
+41.760
+41.697
+39.864
+42.706
+42.548
+42.523
+42.905
+42.250
+49.471
+39.694
+41.697
+49.193
+40.774
+42.751
+42.526
+43.057
+39.439
+42.503
+47.381
+42.052
+43.179
+42.275
+43.900
+43.430
+42.622
+38.412
+39.861
+43.251
+43.690
+42.454
+42.868
+41.302
+42.095
+42.410
+42.604
+42.246
+49.541
+40.476
+41.918
+41.914
+42.644
+42.786
+43.227
+
+24.8
+26.6
+27.6
+29.5
+29.3
+29.5
+27.6
+29.2
+29.6
+27.7
+28.8
+24.9
+28.7
+29.3
+28.2
+25.8
+29.1
+28.0
+27.5
+28.3
+26.7
+29.0
+27.7
+29.1
+28.7
+28.2
+27.4
+27.0
+28.7
+29.6
+29.9
+29.5
+25.7
+27.1
+26.8
+24.7
+26.5
+29.3
+26.3
+30.0
+23.7
+30.3
+25.9
+27.4
+28.0
+28.4
+29.0
+29.2
+28.5
+25.7
+30.3
+29.7
+29.4
+27.3
+29.7
+25.8
+28.6
+27.2
+30.3
+29.2
+25.0
+28.7
+28.9
+27.5
+27.4
+28.6
+29.0
+
+12.2
+13.2
+11.9
+3.9
+10.8
+6.8
+22.6
+5.7
+6.0
+6.3
+9.8
+1.9
+10.1
+9.7
+12.3
+8.8
+14.6
+14.1
+7.4
+4.0
+4.3
+13.0
+7.8
+11.2
+8.2
+9.3
+7.2
+4.6
+10.9
+7.2
+10.1
+8.0
+0.0
+8.1
+5.7
+1.7
+8.7
+7.7
+7.5
+6.4
+19.6
+10.6
+0.8
+6.8
+5.5
+8.1
+4.8
+6.2
+6.9
+22.6
+10.4
+7.7
+6.0
+5.3
+7.0
+7.9
+12.1
+5.6
+10.9
+8.2
+1.0
+13.9
+12.0
+8.6
+5.1
+7.1
+5.6
+
+−3.2
+−1.9
+−0.9
+1.3
+0.9
+1.2
+−1.2
+0.9
+1.3
+−0.6
+0.4
+−2.5
+0.3
+0.9
+−0.4
+−2.5
+0.6
+−0.7
+−0.9
+0.4
+−1.6
+0.5
+−0.8
+0.7
+0.0
+−0.2
+−1.1
+−1.4
+0.3
+1.1
+2.0
+1.1
+−1.8
+−1.0
+−1.5
+−2.8
+−1.7
+0.9
+−1.2
+1.5
+−3.8
+2.0
+−1.9
+−1.1
+−0.3
+0.0
+0.7
+0.8
+0.2
+−2.7
+1.8
+1.4
+1.2
+−0.9
+1.3
+−2.4
+0.1
+−1.0
+1.8
+0.8
+−2.5
+0.2
+0.4
+−1.0
+−0.9
+0.2
+0.7
+
+9.5
+11.3
+10.3
+3.5
+10.3
+6.6
+21.9
+4.9
+5.6
+4.5
+9.0
+2.4
+9.4
+9.1
+10.8
+6.8
+13.1
+13.2
+5.5
+4.2
+2.6
+12.5
+6.2
+10.7
+6.7
+7.8
+4.3
+2.3
+10.4
+5.6
+8.4
+6.8
+0.4
+4.1
+2.8
+2.9
+5.6
+7.1
+3.3
+6.0
+14.4
+10.3
+0.8
+5.0
+4.4
+6.8
+4.2
+5.7
+5.1
+21.9
+7.8
+7.5
+5.5
+2.7
+6.5
+5.4
+11.2
+3.3
+10.4
+6.6
+1.9
+12.4
+11.0
+7.1
+3.1
+6.3
+4.8
+
+0.6
+0.4
+0.4
+0.5
+0.4
+0.4
+1.0
+0.7
+0.3
+0.3
+0.4
+0.7
+0.4
+0.4
+0.4
+0.4
+0.5
+0.5
+0.3
+0.7
+0.5
+0.8
+0.4
+0.4
+0.3
+0.3
+0.6
+0.5
+0.4
+0.4
+0.6
+0.4
+0.7
+0.4
+0.4
+0.7
+0.4
+0.3
+0.6
+0.7
+0.9
+0.7
+0.7
+0.3
+0.3
+0.3
+0.5
+0.4
+0.4
+0.9
+0.9
+0.5
+0.6
+0.3
+0.4
+1.0
+0.4
+0.3
+0.4
+0.4
+0.6
+0.6
+0.4
+0.3
+0.5
+0.3
+0.5
+
+0.6
+0.4
+0.4
+0.5
+0.4
+0.5
+0.8
+0.7
+0.3
+0.3
+0.4
+0.7
+0.4
+0.4
+0.4
+0.4
+0.5
+0.5
+0.3
+0.7
+0.5
+0.8
+0.4
+0.4
+0.3
+0.3
+0.6
+0.5
+0.4
+0.4
+0.6
+0.4
+0.7
+0.4
+0.4
+0.7
+0.4
+0.3
+0.6
+0.7
+0.9
+0.7
+0.7
+0.3
+0.3
+0.3
+0.6
+0.5
+0.4
+0.9
+0.9
+0.5
+0.6
+0.3
+0.4
+1.0
+0.4
+0.3
+0.4
+0.5
+0.6
+0.6
+0.4
+0.3
+0.6
+0.3
+0.5
+
+0.010
+−0.004
+0.004
+0.020
+−0.003
+0.006
+0.009
+0.017
+0.002
+−0.001
+0.000
+0.010
+0.004
+0.001
+0.007
+0.000
+0.017
+0.015
+0.007
+0.039
+0.014
+0.008
+0.001
+−0.005
+0.004
+0.004
+0.042
+0.007
+−0.002
+0.013
+0.009
+0.005
+0.014
+0.002
+0.016
+0.011
+0.003
+0.008
+0.001
+0.004
+0.019
+0.004
+0.036
+0.004
+0.002
+0.008
+0.017
+0.007
+0.067
+0.015
+0.061
+0.015
+0.018
+0.010
+0.006
+0.036
+−0.002
+0.013
+0.002
+0.011
+0.008
+0.015
+−0.002
+0.003
+0.014
+0.007
+0.004
+
+1994.7
+1997.7
+1997.7
+1995.5
+1998.8
+1998.8
+1998.9
+1998.8
+1998.6
+1995.5
+1998.8
+2000.6
+1998.8
+1998.8
+1997.7
+1997.7
+1998.9
+1998.9
+1995.6
+2000.6
+1995.6
+1998.8
+1997.7
+1998.8
+1995.5
+1995.8
+1999.6
+1995.6
+1998.8
+1995.8
+1994.7
+1999.5
+2000.6
+1994.7
+1995.5
+2000.6
+1994.7
+1995.8
+1994.7
+2004.4
+1994.7
+1998.8
+2000.6
+1995.6
+1997.4
+1995.6
+1998.8
+1998.8
+1995.5
+1998.9
+1999.6
+1998.8
+1997.8
+1995.5
+1998.8
+2001.7
+1998.8
+1995.5
+1998.8
+1999.5
+2000.6
+2002.6
+1998.8
+1995.5
+1995.6
+1995.8
+1998.8
+
+4.0
+7.1
+8.9
+5.0
+8.0
+6.8
+2.7
+3.9
+8.9
+12.0
+8.0
+4.0
+8.0
+8.0
+8.9
+7.1
+6.3
+6.3
+11.1
+4.0
+6.8
+2.7
+9.1
+8.0
+11.2
+10.9
+4.8
+6.8
+8.0
+6.0
+4.0
+7.0
+4.0
+8.1
+8.9
+4.0
+8.1
+10.9
+4.0
+2.1
+2.0
+3.7
+4.0
+11.1
+10.1
+10.8
+4.8
+6.8
+9.9
+2.7
+4.8
+6.8
+4.7
+12.0
+7.8
+2.8
+8.0
+12.0
+8.0
+7.0
+4.0
+4.0
+8.0
+11.2
+5.9
+10.9
+6.8
+
+3
+8
+8
+10
+6
+6
+3
+4
+28
+48
+7
+5
+7
+6
+8
+7
+7
+6
+6
+5
+4
+4
+7
+6
+9
+9
+4
+5
+7
+4
+3
+6
+5
+4
+7
+5
+3
+8
+3
+4
+3
+4
+5
+6
+42
+7
+5
+9
+4
+3
+4
+4
+4
+7
+8
+3
+6
+7
+6
+6
+5
+4
+6
+9
+3
+8
+5
+
+10 of 23
+
+TC6014
+
+TC6014
+
+ZUBOVICH ET AL.: GPS VELOCITY FIELD FOR THE TIEN SHAN
+
+Table 1. (continued)
+Name
+
+Longitude (°N)
+
+Latitude (°E)
+
+VxI
+
+VyI
+
+VxE
+
+VyE
+
+Sx
+
+Sy
+
+Cor
+
+SYear
+
+Dur
+
+n
+
+SSR4
+STE4
+SUG4
+SUGU
+SUM4
+SUMKb
+SUU4
+SYT4
+TAKR
+TALAb
+TALD
+TAM4
+TASHb
+TEG4
+TEK4
+TEM4
+TEN4
+TER4
+TGU4
+THR4
+TOK6
+TON4
+TOR4
+TOS4
+TRG4
+TRM4
+TRY4
+TSH5
+TUA4
+TUM4
+TUR4
+TURG
+TUS4
+TUT4
+TYUP
+TZB4
+UGAM
+UKO4
+ULT4
+ULU4
+ULUG
+URD1
+URM4
+URS4
+URUMb
+USH4
+UUM4
+UYG4
+UZB4
+UZG4
+UZL4
+UZU4
+VAV4
+VJK4
+VKA4
+VKE4
+VKR4
+VSE4
+VTG4
+VTU4
+WARZ
+WUPA
+WUQI
+WUSHb
+YENG
+YUZ4
+YZG4
+
+77.890
+75.814
+78.226
+76.512
+80.412
+73.997
+73.555
+73.257
+67.809
+72.210
+73.657
+77.553
+75.234
+76.594
+78.842
+73.333
+80.866
+71.146
+74.722
+75.263
+75.837
+77.052
+73.160
+77.311
+75.383
+83.630
+80.126
+74.790
+78.948
+79.297
+77.642
+75.388
+73.824
+71.203
+78.509
+73.334
+70.254
+75.959
+78.926
+75.080
+74.336
+75.086
+71.958
+76.338
+87.601
+77.969
+73.478
+79.532
+74.929
+74.780
+79.022
+72.498
+81.414
+77.863
+79.392
+78.833
+76.336
+74.999
+76.744
+76.981
+68.967
+75.510
+75.250
+79.210
+76.174
+75.741
+73.207
+
+42.349
+42.128
+43.433
+39.806
+42.906
+44.208
+42.206
+39.732
+42.233
+42.446
+44.238
+42.137
+37.775
+42.137
+44.855
+41.785
+46.081
+41.539
+41.511
+40.889
+42.355
+42.157
+41.895
+42.176
+40.578
+50.382
+45.514
+42.055
+42.415
+43.029
+43.315
+40.517
+42.320
+40.212
+42.632
+40.569
+42.280
+41.934
+42.858
+42.346
+39.842
+43.379
+42.354
+42.110
+43.808
+45.739
+41.219
+44.478
+41.936
+41.069
+43.144
+41.980
+50.667
+42.031
+42.546
+42.898
+42.185
+42.221
+42.040
+42.021
+38.854
+39.311
+39.718
+41.202
+38.935
+41.979
+41.335
+
+28.3
+28.7
+29.2
+28.3
+29.6
+26.8
+28.4
+28.0
+25.3
+27.0
+27.8
+28.4
+24.0
+28.8
+27.2
+27.0
+27.0
+26.5
+27.5
+27.8
+28.7
+29.0
+27.6
+28.6
+28.3
+25.1
+25.5
+27.9
+29.2
+29.9
+29.4
+28.3
+27.8
+27.6
+28.3
+27.0
+26.5
+27.8
+28.9
+28.0
+27.1
+27.4
+27.4
+28.1
+30.4
+27.3
+26.5
+26.4
+27.8
+27.3
+29.6
+27.9
+25.0
+28.6
+29.8
+29.4
+29.4
+28.0
+29.0
+28.4
+26.2
+29.8
+27.6
+29.3
+29.0
+27.8
+26.6
+
+10.7
+7.4
+5.0
+20.2
+7.8
+3.8
+6.6
+11.8
+5.7
+5.2
+5.0
+11.3
+24.9
+9.7
+3.7
+6.6
+3.6
+5.7
+8.2
+12.3
+6.7
+10.1
+5.7
+10.9
+13.4
+1.3
+3.7
+7.9
+11.5
+6.5
+5.3
+14.0
+4.9
+7.8
+9.6
+10.4
+5.5
+9.3
+7.9
+6.6
+17.7
+6.6
+5.2
+8.8
+7.0
+4.2
+9.9
+4.9
+8.0
+10.7
+6.8
+5.9
+1.4
+12.1
+10.3
+7.4
+8.5
+6.9
+10.8
+11.2
+9.1
+23.8
+16.2
+16.2
+23.0
+9.1
+8.9
+
+−0.3
+0.3
+0.9
+−0.2
+1.1
+−1.3
+0.1
+−0.5
+−2.4
+−1.2
+−0.1
+−0.1
+−4.6
+0.4
+−1.0
+−1.3
+−1.0
+−1.8
+−0.8
+−0.7
+0.3
+0.5
+−0.7
+0.3
+−0.2
+−2.2
+−2.6
+−0.5
+0.8
+1.4
+1.1
+−0.2
+−0.5
+−0.8
+−0.1
+−1.5
+−1.7
+−0.7
+0.4
+−0.4
+−1.4
+−0.3
+−0.8
+−0.4
+2.4
+−0.7
+−2.0
+−1.9
+−0.6
+−1.2
+1.2
+−0.4
+−2.4
+0.2
+1.3
+1.0
+1.1
+−0.4
+0.6
+−0.1
+−1.7
+1.1
+−1.0
+0.8
+0.4
+−0.6
+−1.9
+
+9.7
+6.0
+4.3
+18.7
+7.7
+1.9
+4.5
+9.6
+1.4
+2.7
+2.3
+10.2
+23.2
+8.4
+3.3
+4.4
+3.5
+3.0
+6.5
+10.8
+5.2
+8.8
+3.5
+9.9
+11.9
+2.0
+3.5
+6.2
+10.9
+6.1
+4.4
+12.6
+2.9
+5.0
+9.0
+8.3
+2.4
+7.9
+7.5
+4.9
+15.6
+3.4
+2.7
+7.6
+8.9
+3.3
+7.9
+4.4
+6.2
+9.1
+6.3
+3.6
+1.6
+11.2
+9.9
+6.8
+7.2
+5.2
+9.6
+10.0
+4.3
+22.2
+14.3
+15.7
+21.4
+7.7
+6.9
+
+0.4
+0.8
+0.6
+0.6
+0.4
+0.4
+0.4
+0.6
+0.7
+0.3
+0.7
+0.4
+0.4
+0.3
+0.5
+0.4
+0.6
+0.3
+0.4
+0.4
+0.3
+0.4
+0.4
+0.3
+0.4
+0.6
+0.7
+0.4
+0.3
+0.4
+0.5
+0.5
+0.3
+0.7
+0.3
+0.5
+0.4
+0.3
+0.4
+0.5
+0.6
+0.7
+0.3
+0.4
+0.4
+0.6
+0.4
+0.8
+0.3
+0.5
+0.4
+0.4
+0.7
+0.4
+0.4
+0.5
+0.4
+0.3
+0.4
+0.4
+0.6
+0.6
+0.6
+0.4
+0.6
+0.3
+0.7
+
+0.4
+0.8
+0.6
+0.6
+0.4
+0.4
+0.4
+0.6
+0.7
+0.3
+0.8
+0.4
+0.4
+0.3
+0.5
+0.4
+0.7
+0.3
+0.4
+0.4
+0.3
+0.4
+0.4
+0.3
+0.4
+0.7
+0.7
+0.4
+0.3
+0.4
+0.6
+0.5
+0.3
+0.6
+0.3
+0.5
+0.4
+0.3
+0.4
+0.5
+0.6
+0.7
+0.3
+0.4
+0.3
+0.6
+0.4
+0.9
+0.3
+0.5
+0.5
+0.4
+0.7
+0.4
+0.4
+0.5
+0.4
+0.3
+0.4
+0.4
+0.6
+0.6
+0.6
+0.4
+0.6
+0.3
+0.6
+
+−0.001
+0.017
+0.020
+−0.016
+0.008
+0.002
+0.007
+0.023
+0.006
+0.003
+0.009
+0.005
+0.003
+0.012
+0.005
+0.011
+0.032
+0.011
+0.006
+0.006
+0.008
+0.004
+0.013
+0.011
+0.006
+0.005
+0.032
+−0.007
+0.007
+0.007
+0.006
+0.006
+0.005
+0.045
+0.003
+0.017
+0.015
+0.005
+0.004
+0.016
+0.004
+0.005
+0.013
+0.001
+0.003
+0.013
+0.001
+0.042
+0.004
+0.008
+0.006
+0.004
+0.029
+−0.007
+0.004
+0.001
+0.005
+0.007
+0.006
+0.004
+0.003
+0.002
+0.002
+0.002
+−0.004
+0.007
+−0.004
+
+1998.8
+2002.6
+1998.8
+1998.9
+1998.8
+2000.7
+1995.5
+1999.6
+1995.7
+1998.8
+1995.7
+1998.8
+1998.9
+1995.8
+1997.8
+1995.6
+2000.6
+1995.5
+1997.7
+1997.7
+1995.5
+1998.8
+1995.5
+1995.8
+1997.7
+2000.6
+2000.6
+1997.7
+1995.8
+1998.8
+1997.8
+1998.9
+1995.5
+1999.6
+1995.5
+1997.7
+1995.5
+1995.6
+1998.8
+1995.6
+1998.9
+1994.7
+1995.5
+1995.6
+1998.9
+2000.6
+1997.7
+2000.6
+1995.6
+2000.5
+1998.8
+1995.5
+2000.6
+1998.8
+1998.8
+1998.8
+1999.5
+1995.6
+1998.8
+1998.8
+1994.7
+1998.9
+1998.9
+1998.9
+1998.9
+1995.6
+2000.5
+
+8.0
+3.8
+4.8
+4.3
+7.8
+6.7
+9.9
+4.8
+3.0
+8.7
+3.0
+7.7
+6.3
+10.7
+6.8
+8.8
+4.0
+12.0
+8.9
+8.9
+11.0
+7.7
+8.9
+10.7
+8.9
+4.0
+4.0
+9.1
+10.9
+7.8
+5.7
+6.3
+11.2
+4.8
+11.2
+6.8
+7.0
+11.1
+7.8
+6.0
+4.3
+4.0
+12.0
+10.1
+8.6
+4.0
+7.1
+3.0
+11.1
+6.1
+6.8
+9.3
+4.0
+8.0
+8.0
+6.8
+7.0
+11.1
+7.7
+7.7
+4.0
+5.2
+4.3
+6.3
+4.3
+11.0
+4.3
+
+7
+3
+5
+4
+8
+22
+7
+4
+3
+32
+3
+7
+6
+7
+6
+5
+5
+8
+8
+8
+8
+7
+7
+9
+9
+5
+5
+4
+8
+8
+4
+7
+7
+4
+9
+8
+8
+7
+8
+4
+4
+7
+7
+7
+33
+5
+7
+4
+6
+5
+8
+7
+5
+6
+6
+4
+6
+6
+6
+7
+4
+5
+4
+7
+3
+8
+4
+
+11 of 23
+
+TC6014
+
+TC6014
+
+ZUBOVICH ET AL.: GPS VELOCITY FIELD FOR THE TIEN SHAN
+
+Table 1. (continued)
+Name
+ZAR4
+ZAS4
+ZBA4
+ZEPU
+ZES4
+ZKK4
+ZTR4
+
+Longitude (°N)
+
+Latitude (°E)
+
+VxI
+
+VyI
+
+VxE
+
+VyE
+
+Sx
+
+Sy
+
+Cor
+
+SYear
+
+Dur
+
+n
+
+82.322
+84.856
+75.009
+77.277
+80.889
+74.379
+82.566
+
+49.934
+47.434
+41.092
+38.174
+49.619
+42.302
+47.611
+
+25.3
+27.6
+27.3
+27.9
+25.5
+27.6
+27.3
+
+1.2
+3.1
+11.1
+19.4
+1.2
+5.7
+1.4
+
+−2.1
+−0.2
+−1.2
+−0.2
+−2.2
+−0.9
+−0.5
+
+1.6
+4.0
+9.4
+18.4
+1.2
+4.0
+1.8
+
+0.7
+0.7
+0.4
+1.0
+0.7
+0.4
+0.7
+
+0.7
+0.7
+0.4
+0.8
+0.7
+0.4
+0.7
+
+0.016
+0.034
+0.006
+0.004
+0.029
+0.002
+0.028
+
+2000.6
+2000.6
+1997.7
+1998.9
+2000.6
+1997.7
+2000.6
+
+4.0
+4.0
+8.9
+4.3
+4.0
+9.1
+4.0
+
+5
+5
+9
+4
+5
+7
+5
+
+a
+VxI and VyI give eastward and northward components of velocity in the ITRF2005 reference frame. VxE and VyE give eastward and northward
+components of velocity in reference frame tied to Eurasia. Sx and Sy give standard errors in eastward and northward components of velocity, and Cor
+gives the correlation coefficient between these uncertainties. SYear gives the date when the site was first measured, Dur gives the elapsed time
+between that first measurement and the most recent measurement campaign, and n gives the number of campaigns during which a site was measured.
+b
+Continuously recording site.
+
+of shortening suffices to account for the Cenozoic structure
+of the Kyrgyz Tien Shan. Heermance et al. [2008] offered a
+minimum bound of 10 to 32 km of shortening on the south
+side of the range. If between 100 and 200 km of crustal
+shortening occurred within the Kyrgyz and Chinese Tien
+Shan, then at the current rate, the entire range would have
+been built in only 5 to 10 Myr.
+[16] The rapid shortening today corroborates other inferences of a recent acceleration of deformation within the Tien
+Shan long after India collided with Eurasia [e.g.,
+Abdrakhmatov et al., 1996, 2001]. Abrupt increases in
+sedimentation in basins both within the Tien Shan and on its
+margins are commonly interpreted as evidence for the
+emergence of high terrain near or since ∼10 Ma [e.g.,
+Abdrakhmatov et al., 2001; Bullen et al., 2001; Charreau et
+al., 2005, 2006, 2008, 2009; Ji et al., 2008; Makarov, 1977;
+Shultz, 1948; Sun and Zhang, 2009; Sun et al., 2004, 2009;
+Trifonov et al., 2008]. Rapid cooling of rock within the
+Kyrgyz Range beginning near 11 Ma also suggests an
+abrupt increase in exhumation rates at that time [Bullen et
+al., 2003; Sobel and Dumitru, 1997; Sobel et al., 2006a].
+Neither this evidence, however, nor the present‐day high
+convergence rate requires that the Tien Shan formed in late
+Cenozoic time. Mountain building deformation of the crust
+of the Tien Shan started near the end of the Oligocene or the
+beginning of the Miocene Epoch [Chedia, 1986; Makarov,
+1977; Shultz, 1948; Sinitsyn, 1962]. Similarly, dating of
+deformation on the south side of the Tien Shan demonstrates
+active faulting beginning at 20–25 Ma [Heermance et al.,
+2008; Yin et al., 1998], an inference consistent with both
+cooling ages near 25 Ma [Hendrix et al., 1994; Sobel and
+Dumitru, 1997; Sobel et al., 2006b] and changes in sedimentation rates in basins flanking the Tien Shan [e.g.,
+Charreau et al., 2009; Huang et al., 2006, 2010; Ji et al.,
+2008]. Thus, an acceleration of convergence across the
+Tien Shan beginning at or since ∼10 Ma seems to be required, but we cannot distinguish a continuously increasing
+rate from an abrupt change near or since ∼10 Ma and a
+constant rate since that time.
+3.2. Deformation Within the Tien Shan
+[17] As is clear both on maps of velocities (Figures 3 and 6)
+and on profiles of components of velocity (Figure 4),
+
+components perpendicular to the Tien Shan show a monotonically decreasing rate across the belt, from Tarim to the
+southern part of the Kazakh Platform. The velocity gradient
+is steepest at distances between ∼400 and ∼700 km for
+profiles A‐A′ to D‐D′ in Figures 2 and 4. In an analysis of
+active faulting in the area crossed by profile A‐A′ (Figures 2
+and 4a), Makarov [1977] [see also Makarov et al., 2010] not
+only reported active faults on the edge of the Tien Shan, but
+they also described active faulting within the belt. Later,
+Thompson et al. [2002] and Abdrakhmatov et al. [2007]
+discussed four such faults within the high terrain of the
+range slipping at ∼1 mm/yr or more, and other more minor
+faults. In a profile of GPS velocities across this region, they
+showed steep gradients and high strain rates where they had
+mapped active faults. Moreover, the differences in velocity
+across these steep gradients matched (with allowance for
+uncertainties) the slip rates that they had determined for the
+faults. Our profile A‐A′ shows a difference of 8–10 mm/yr
+across the southern margin of the Tien Shan between 300
+and 350 km on the profile (Figure 2), where Scharer et al.
+[2004] had inferred a Quaternary rate of ∼5 to 7.8 mm/yr,
+a second difference of 3–4 mm/yr across the Naryn Basin
+(near 500 km) and near where Thompson et al. [2002] had
+inferred slip at ∼4 mm/yr by dating warped terraces and offsets on faults, and hints of smaller differences of 1–2 mm/yr
+across steep gradients farther north near 600 and 650 km,
+again near faults that they had mapped. Moreover, as is
+clearer farther east on profiles C‐C′ and D‐D′ (Figures 4c and
+4d), GPS points just north of the Kyrgyz Range move
+northward at 1–2 mm/yr with respect to the Kazakh Platform
+and Eurasia. Some shortening seems to occur not only within
+the Dzungarian Alatau (the high terrain between 44.5°N and
+45.5°N on the eastern margin of Figure 6) and its westward
+continuation, but also north of it within the Kazakh Platform
+(Figures 2–4).
+[18] Indications of steep gradients in the velocity field are
+also present along profile B‐B′ (Figures 2 and 4b) at three
+places: (1) a difference of ∼5 mm/yr between ∼300 and
+450 km, north of the southern edge of the Tien Shan and
+north of or within the fold‐and‐thrust belt that bounds the
+belt; (2) another of ∼5–6 mm/yr near 600 km, within the
+Tien Shan between the southern and northern edges of
+Issyk‐Kul and the large basin that it occupies; and (3) a hint
+
+12 of 23
+
+TC6014
+
+ZUBOVICH ET AL.: GPS VELOCITY FIELD FOR THE TIEN SHAN
+
+Figure 4. (a–d) Profiles of components of velocity across the Tien Shan relative to Eurasia (profiles A‐A′
+to D‐D′ in Figure 2). As shown in the legend below profile A, components perpendicular to the Tien Shan
+(and parallel to profiles) are shown with red squares and black diamonds, and components parallel to the
+Tien Shan (and perpendicular to profiles) are shown with blue and green triangles. Thus, positive values
+show convergent (approximately northward) components, or movement to the right (approximately eastward). Error bars give 1s uncertainties. Black squares and blue upward pointing triangles show rates of
+points that lie within 75 km to the west, and red squares and green downward pointing triangles show points
+within 75 km to the east of the profiles in Figure 2. Thrust fault symbols are shown where active thrust faults
+have been mapped, as by Thompson et al. [2002] for profile A, or inferred from sharp breaks in the
+topography.
+13 of 23
+
+TC6014
+
+TC6014
+
+ZUBOVICH ET AL.: GPS VELOCITY FIELD FOR THE TIEN SHAN
+
+Figure 4.
+
+(continued)
+
+14 of 23
+
+TC6014
+
+TC6014
+
+ZUBOVICH ET AL.: GPS VELOCITY FIELD FOR THE TIEN SHAN
+
+TC6014
+
+Figure 5. Profile of components of velocity across the eastern Pamir into the Tarim Basin relative to
+Eurasia (profile E‐E′ in Figure 2). Positive values for black diamonds and red squares indicate approximately eastward components, and the more negative values at points to the west imply divergence along
+the profile. Positive values for blue upward pointing triangles and green downward pointing triangles
+indicate movement to the right of the profile and hence approximately southward movement relative to
+Eurasia. Error bars give 1s uncertainties. Black diamonds and blue upward pointing triangles show rates
+of points within 75 km to the north of profile E‐E′ in Figure 2, and red squares and green downward
+pointing triangles show points within 75 km to the south it.
+of a steep gradient with a difference of ∼2 mm/yr near
+700 km across the northern edge of the Tien Shan, where it
+bounds the southern edge of the Ili Basin (Figure 6). There
+is evidence for shortening between the Ili Basin and the
+Kazakh Platform, with 3–5 mm/yr of shortening across the
+westward continuation of the Dzungarian Alatau (Figure 6).
+[19] Indications of steep gradients suggestive of faults like
+those inferred by Thompson et al. [2002] are present on
+profile C‐C′ (Figures 2 and 4c) again in three places: (1) a
+difference of ∼4 mm/yr between 500 and 550 km, north of
+the southern edge of the Tien Shan and north of the fold‐
+and‐thrust belt that bounds the belt; (2) another steep gradient with a difference of ∼4 mm/yr near 650 km, within the
+Tien Shan, just east of Issyk‐Kul and the large basin that it
+occupies; and (3) the suggestion of steep gradient with a
+small difference of ∼2 mm/yr near 750 km across the
+northern edge of the Tien Shan, where it bounds the southern
+edge of the Ili Basin (Figures 4c and 6). Points at the western
+end of the Ili Basin move 2–3 mm/yr with respect to Eurasia.
+[20] With only sparse data, steep velocity gradients can be
+inferred for profile D‐D′ (Figures 2 and 4d), but they cannot
+
+be defined as well as on profiles A‐A′, B‐B′, and C‐C′.
+Several points in the Ili Basin, however, move northward
+with respect to Eurasia at ∼2–3 mm/yr, and that movement
+is absorbed, at least partly, by shortening across the Dzungarian Alatau.
+3.3. Strike‐Parallel Deformation Within the Tien Shan
+[21] Convergence of the Tarim Basin toward the Kazakh
+Platform is clearly oblique to the strike of the Tien Shan,
+and accordingly there is a left‐lateral strike‐slip component
+of movement parallel to the belt (Figures 3, 4, and 6). Because
+inferred axes of rotation of the Tarim Basin with respect to
+Eurasia lie south of the southeastern end of the Tarim Basin
+[Calais et al., 2006; England and Molnar, 2005; Meade,
+2007; Reigber et al., 2001; Shen et al., 2001; Thatcher,
+2007] and therefore only 1000–1500 km from the Kyrgyz
+Tien Shan, directions of relative movement vary measurably
+over short distances (Figure 6). Points just south of the Tien
+Shan along profile D‐D′ move with a left‐lateral component
+of ∼4 mm/yr with respect to Eurasia, but points farther west
+
+15 of 23
+
+TC6014
+
+ZUBOVICH ET AL.: GPS VELOCITY FIELD FOR THE TIEN SHAN
+
+TC6014
+
+Figure 6. Map of Tien Shan with GPS velocities relative to Eurasia (box 1 in Figure 2). Error ellipses
+show 95% confidence ellipses.
+along profile B‐B′ move with a left‐lateral component of
+only ∼2 mm/yr (Figures 4 and 6). The left‐lateral component
+on profile D‐D′ seems to be absorbed by shear in two zones,
+one (between 400 and 600 km) within the Tien Shan, and
+the other (near 800 km) at the edge of the Tien Shan and Ili
+Basin (Figures 2, 3, and 4d). On profile C‐C′, the left‐lateral
+component seems to be absorbed by more localized shear
+than data on profile D‐D′ can resolve and again in two
+zones, one near the southern edge of the Issyk‐Kul Basin,
+and the other at the edge of the Tien Shan and Ili Basin
+(Figures 3 and 4c). Localized shear zones are less clearly
+defined on profiles A‐A′ and B‐B′, in part because the
+
+component of left‐lateral shear along the Tien Shan is
+smaller there.
+[22] The west to east increase in the left‐lateral strike‐slip
+component along the Tien Shan requires greater eastward
+components of velocity at sites in the eastern part of the Tien
+Shan than in the western part (Figures 3, 4, and 6). In the
+west, velocities are nearly parallel to profile A‐A′, but for
+profile D‐D′ in the east, they show clear eastward components. Thus, there might be a small ENE–WSW component
+of extension along and within the Tien Shan, despite the
+dominance of thrust faulting shown by fault plane solutions
+of nearly all earthquakes in the region [e.g., Ghose et al.,
+
+16 of 23
+
+TC6014
+
+ZUBOVICH ET AL.: GPS VELOCITY FIELD FOR THE TIEN SHAN
+
+TC6014
+
+Figure 7. Profile of components of velocity across the Pamir, parts of Ferghana Valley and Tien Shan,
+and regions farther north relative to Eurasia (profile F‐F′ in Figure 2). Components perpendicular to the
+Alay Valley and Trans‐Alay Range (and parallel to the profile) are shown with red squares and black
+diamonds, and components parallel to them (and perpendicular to profiles) are shown with blue and green
+triangles. Positive values show convergent (approximately northward) components, or movement to the
+right (approximately eastward). Error bars give 1s uncertainties. Black squares and blue upward pointing
+triangles show rates of points that lie within 75 km to the west, and red squares and green downward
+pointing triangles show points within 75 km to the east of profile F‐F′ in Figure 2. Thrust fault symbols
+are shown where active thrust faults have been mapped by Arrowsmith and Strecker [1999], inferred from
+seismicity [e.g., Burtman and Molnar, 1993], or from sharp breaks in the topography, and the position of
+the Talas‐Ferghana strike‐slip fault is inferred from its obvious expression in the topography.
+1998; Maggi et al., 2000; Nelson et al., 1987; Tapponnier
+and Molnar, 1979] and by the absence of evidence of normal faulting. We presume that any extensional component
+of strain is accommodated by strike‐slip faulting or shear on
+planes oriented obliquely to the belt.
+3.4. The Pamir and Shortening Across the Alay Valley
+[23] The network of GPS sites that we analyzed includes
+several sites in the northern part of the Pamir (Figures 2 and
+3). Maximum north‐northwestward components of velocity
+relative to Eurasia exceed those from the Tarim Basin
+(Figures 2 and 4). This difference in velocity would be
+consistent with a small component of right‐lateral shear
+across the eastern part of the Pamir, where right‐lateral
+faults have been mapped [e.g., Cowgill, 2010; Peive et al.,
+1964; Ruzhentsev, 1963]. Such right‐lateral shear might be
+present, but when south–southeastward components of ve-
+
+locity are plotted on an east–northeast profile from the Pamir
+to the Tarim Basin (blue and green points on profile E‐E′;
+Figure 5), no obvious step in rates is seen. Rather this
+component of velocity increases smoothly from east to west.
+Because the strike‐slip component, which clearly exists in
+the southern Pamir, dies out to the north, it is possible that
+the GPS sites within the Pamir lie too far to the north to
+measure a strike‐slip component.
+[24] By contrast, east–northeastward components of velocity increase eastward, with a difference of 5–8 mm/yr
+between those within the Pamir and within the Tarim Basin
+(near 300 km on profile E‐E′; Figure 5). Hence, the interior
+of the Pamir diverges from the Tarim Basin, despite the
+presence of folds and thrust faults along their boundary [e.g.,
+Jin et al., 2003]. This divergence attests to both east‐west
+extension within the Pamir, a result consistent with fault plane
+solutions of earthquakes [e.g., Burtman and Molnar, 1993;
+
+17 of 23
+
+TC6014
+
+ZUBOVICH ET AL.: GPS VELOCITY FIELD FOR THE TIEN SHAN
+
+Strecker et al., 1995], with the presence of grabens along the
+eastern part of the Pamir [e.g., Cowgill, 2010; Tapponnier
+and Molnar, 1979], and with velocities of a few continuous
+GPS sites in the Pamir and surroundings [Mohadjer et al.,
+2010]. The folding of Mesozoic and Cenozoic sedimentary
+rock along the western edge of the Tarim Basin implies
+convergence perpendicular to the eastern margin of the Pamir
+[e.g., Jin et al., 2003], but at present this convergence must be
+slow compared with the rate of divergence across a wider belt
+(Figure 5). We are unaware of evidence that constrains either
+when the divergence began or when convergence on the
+eastern margin occurred most rapidly.
+[25] Because of the paucity of GPS sites within the Pamir,
+its deformation field cannot be quantified in full. Nevertheless, as shown by profile F‐F′ (Figures 2 and 7), rates
+relative to Eurasia decrease by at least 10 and possibly by 15
+mm/yr over a short distance that spans the Trans‐Alay
+Range (near 250 km; Figure 7), which marks the northern
+margin of the Pamir, and the Alay Valley just to its north.
+Although the rotation of the Ferghana Valley relative to
+Eurasia (discussed below) can account for ∼5 mm/yr of
+nearly ∼25 mm/yr of north‐northwestward convergence of
+the central Pamir with Eurasia, it appears that thrust faulting
+at the northern margin of the Pamir absorbs at least 10 and
+maybe 15 mm/yr of that ∼25 mm/yr of convergence between the Pamir and Eurasia. Such a rate is similar to the 13
+± 4 mm/yr that Reigber et al. [2001] had inferred, and
+consistent with triangulation measurements made farther
+west [e.g., Guseva, 1986; Konopaltsev, 1971a, 1971b].
+[26] Most, if not all, of this convergence between the
+Pamir and Eurasia may be absorbed at the system of thrust
+faults in the Alay Valley. The high level of seismicity in this
+region attests to localized deformation (Figure 1), and evidence of thrust faulting in this region abounds [e.g.,
+Coutand et al., 2002; Nikonov, 1974, 1975, 1977; Nikonov
+et al., 1983; Strecker et al., 2003]. Arrowsmith and Strecker
+[1999] measured a lower bound of 6 mm/yr for Holocene
+convergence at one location near 39.5°N, 72.6°E. The GPS
+measurements reported here suggest that localized convergence may be much more rapid than just 6 mm/yr, and
+perhaps occurs by slip on more than one thrust, or reverse,
+fault in this region. Obviously, with so few measurement
+points we cannot eliminate north–south crustal shortening
+within the Pamir as well, but both fault plane solutions of
+earthquakes and evidence of active faulting imply a preponderance of normal faulting and east‐west extension
+within the high axial portion of the Pamir [e.g., Burtman and
+Molnar, 1993; Strecker et al., 1995]. Thus, we doubt that
+reverse faulting and contraction at more than a couple of
+mm/yr occurs in this region.
+[27] This zone of thrust or reverse faulting along the
+Trans‐Alay Range seems to mark a zone of intracontinental
+subduction [e.g., Burtman and Molnar, 1993; Chatelain et
+al., 1980; Hamburger et al., 1992], where the eastern continuation of the Tajik Depression has been subducted
+southward beneath the Pamir. The suggestion of localized
+deformation at the foot of the Trans‐Alay Range, therefore,
+accords with this region being the surface manifestation of
+such subduction.
+
+TC6014
+
+3.5. Rotation of the Ferghana Valley and Slip on the
+Talas‐Ferghana Fault
+[28] West of the segment of the Tien Shan that separates
+the effectively rigid Tarim Basin from the Kazakh Platform
+to the north, the high terrain of the Tien Shan west of the
+Talas‐Ferghana fault splits into two belts that surround the
+Ferghana Valley, which also seems to behave as a block that
+deforms at most only slowly (Figures 2 and 8). With thick,
+poorly consolidated sedimentary rock, the Ferghana Valley
+offers poor sites for GPS points, and most sites have been
+installed in sedimentary rock exposed in folds on the margins of the valley. Rates of movement relative to Eurasia
+increase from low rates at sites in the southwestern part of
+the basin to higher rates near its northeast margin, consistent
+with rotation of the basin, with respect to Eurasia, about an
+axis near its southwest end [e.g., Reigber et al., 2001;
+Thomas et al., 1993]. Sites on the southeast side, however,
+move faster toward Eurasia than those on the northwest side,
+presumably because they lie within the deforming margins
+of the Ferghana Valley. On the northwest margin, crustal
+shortening occurs with a NW‐SE orientation, and on its
+southern margin, north‐south shortening occurs. Field
+observations, geophysical profiling, and fault plane solutions of earthquakes suggest that the east‐west trending
+South Tien Shan, which is cored largely by Paleozoic
+metamorphic rock, has been thrust atop the southern edge of
+the Ferghana Valley [e.g., Burtman and Molnar, 1993;
+Laverov and Makarov, 2005]. Thus, the counterclockwise
+rotation of the Ferghana Valley converts roughly north‐
+south movement of the South Tien Shan with respect to
+Eurasia, into NW‐SE shortening across the Chatkal and
+adjacent ranges that lie northwest of the valley. Using sites
+on the margins of the Ferghana Valley and allowing uniform
+strain among them, we estimate an angular velocity of the
+valley with respect to Eurasia given by counterclockwise
+rotation at −0.73° (±0.08°) Myr−1 about an axis of rotation
+that is located just southwest of the valley at 39.9°N (±0.4),
+67.5°E (±0.7) (Figure 8). To determine that angular velocity,
+we used those points shown in Figure 8 with blue arrows
+superimposed on them; the blue arrows show calculated
+velocities for those points.
+[29] The eastern end of the Ferghana Valley is bounded by
+high terrain through which a clear right‐lateral strike‐slip
+fault passes, the Talas‐Ferghana fault [e.g., Burtman, 1963,
+1964, 1975]. From several upper bounds of ∼10 mm/yr for
+the Holocene slip rate on the fault, Burtman et al. [1996]
+suggested that the fault currently slips at that rate. By contrast, Trifonov et al. [1992] inferred that Late Quaternary
+and Holocene right‐lateral slip along the fault was not uniform along the fault, and that the highest rate of about 15
+mm/yr occurs in its central part just opposite the Ferghana
+Valley. GPS data, however, including both analyses of a
+subset of the data that we present here [e.g., Meade and
+Hager, 2001; Zubovich et al., 2007] and of other, independent data [Mohadjer et al., 2010], showed that the rate
+must be much lower, < ∼2 mm/yr. The modest differences in
+velocities of sites on the two sides of the fault (Figures 8 and
+9) demonstrate that the slip rate indeed is small, no more
+than ∼1–2 mm/yr. Profiles of GPS velocities (Figure 9), in
+
+18 of 23
+
+TC6014
+
+ZUBOVICH ET AL.: GPS VELOCITY FIELD FOR THE TIEN SHAN
+
+TC6014
+
+Figure 8. Map of Ferghana Valley and surrounding region with GPS velocities (black and red arrows)
+relative to Eurasia (region 2 in Figure 2). Red arrows show points that are assumed to be part of the
+Ferghana Valley, and blue arrows show velocities calculated assuming that the region including those
+points (1) contracts at rates of 15 × 10−9 yr−1 oriented N157°E, and at 1.5 × 10−9 yr−1 at N67°E, and (2)
+rotates about an axis at 67.5°E ± 0.7°E, 39.9°N ± 0.4°N at a rate of −0.73° ± 0.08° Myr−1 with respect to
+Eurasia. Error ellipses show 95% confidence regions.
+fact, give little indication of any slip at all. Moreover, the
+obliquity of the fault to the direction of movement of the
+Ferghana Valley, relative to Eurasia, attest to a small component of convergence perpendicular to the fault, which
+presumably manifests itself, at least in part, in the presence
+of high terrain southwest of the fault.
+
+4. Conclusions
+[30] The GPS data presented here demonstrate that the
+western part of the Tarim Basin converges with Eurasia at
+20 ± 2 mm/yr (Figures 2 and 4, profiles A‐A′ and B‐B′),
+where convergence between India and Eurasia is only
+∼33 mm/yr [Argus et al., 2010]. At a convergence rate of
+20 mm/yr the entire Tien Shan would have been built in less
+than 10 Ma. Thus, these data suggest that following slow
+initial growth, the Tien Shan did not develop into a major
+mountain belt until late in the history of convergence between
+India and Eurasia [Abdrakhmatov et al., 1996; Reigber et al.,
+2001].
+[31] Most of the convergence between the Tarim Basin
+and the Kazakh Platform is absorbed within the Tien Shan,
+presumably by slip on thrust or reverse faults; localized
+
+zones of shortening at rates of ∼2 mm/yr to as many as
+6 mm/yr lie within the Tien Shan. In addition, shortening at
+∼1–3 mm/yr occurs north of the belt, within the Dzungarian
+Alatau and its westward continuation, and possibly also in
+the southern part of the Kazakh Platform. Moreover, the
+movement of the Tarim Basin toward the Kazakh Platform
+includes a left‐lateral strike‐slip component parallel to the
+Tien Shan of ∼4 mm/yr in the eastern part of our network,
+decreasing to only ∼2 mm/yr at the western end of the belt,
+which we associate with clockwise rotation of the Tarim
+Basin with respect to Eurasia.
+[32] GPS data surrounding the Ferghana Valley corroborate the inference that this basin has rotated around an axis
+southwest of the valley [Reigber et al., 2001; Thomas et al.,
+1993], and refine the angular velocity of that motion
+(Figure 8). Shortening across the Chatkal and parallel
+mountain ranges that lie along the northwestern margin of
+the valley occurs at ∼5 mm/yr. Slip on the Talas‐Ferghana
+fault, at the eastern end of the Ferghana Valley, occurs at
+<∼2 mm/yr (Figure 9) [Meade and Hager, 2001; Mohadjer
+et al., 2010; Zubovich et al., 2007].
+[33] Convergence between the Tarim Basin and the Kazakh
+Platform is absorbed over a region more than 200 km wide,
+
+19 of 23
+
+TC6014
+
+ZUBOVICH ET AL.: GPS VELOCITY FIELD FOR THE TIEN SHAN
+
+Figure 9. Profiles of components of velocity across the Ferghana Valley, Talas‐Ferghana fault, and
+western Tien Shan relative to Eurasia (profiles G‐G′ and H‐H′ in Figure 2). Positive values for black
+diamonds and red squares indicate approximately eastward components, and those for blue and green
+triangles show movement to the right of the profiles, approximately southward. Error bars give 1s
+uncertainties. Black diamonds and blue upward pointing triangles show rates for points within 75 km to
+the north of profiles G‐G′ and H‐H′ in Figure 2, and red squares and green downward pointing triangles
+show points within 75 km to the south of those profiles. Symbols showing strike‐slip faulting indicate the
+position of the Talas‐Ferghana fault, as inferred from the detailed topography.
+20 of 23
+
+TC6014
+
+TC6014
+
+ZUBOVICH ET AL.: GPS VELOCITY FIELD FOR THE TIEN SHAN
+
+and although it is not uniformly distributed, no single predominant fault absorbs the majority of this convergence. By
+contrast, the Pamir seems to move northward toward Eurasia
+with a large fraction absorbed near the Alay Valley, which
+lies just north of the Trans‐Alay Range and bounds the
+northern edge of the Pamir. The shortening rate in this zone
+is at least 10 and perhaps 15 mm/yr, similar to what Reigber
+et al. [2001] had inferred from fewer measurements.
+Moreover, the northern part of the Pamir diverges westward
+from the Tarim Basin at 5–8 mm/yr, a result consistent with
+the presence of grabens in the eastern Pamir, with fault plane
+solutions of earthquakes that demonstrate normal faulting
+and east‐west extension, and with sparse continuous GPS
+measurements [Mohadjer et al., 2010].
+
+Appendix A: Processing of GPS Observations
+[34] We analyzed the GPS data using the GAMIT/
+GLOBK software [Herring, 2004; King and Bock, 2004]
+with a three‐step approach [Dong et al., 1998, Herring et
+al., 2002]. In the first step, for each day we used GPS
+phase observations to estimate station coordinates and the
+zenith delay of the atmosphere at each station that recorded
+GPS signal that day, and parameters describing the orbits of
+the satellites and the orientation of the Earth. To tie the
+regional measurements to an external global reference frame
+in the next steps, we included 8–12 continuously operating
+IGS stations in the processing of data for each day [Dow et
+al., 2009]. In the second step, we combined the regional
+daily solutions from the first step with global GPS analysis
+performed at Scripps Institution of Oceanography and saved
+them into a single file, for each campaign, as loosely constrained solutions of site positions. The Scripps global
+analysis contains over 300 stations and provides accurate
+orbits and positions of these stations.
+[35] In the third step, the combined loosely constrained
+solutions for each campaign were passed through a Kalman
+filter, GLOBK [Herring, 2004], to estimate a consistent set
+of coordinates and velocities. Before we estimated velocities, however, we examined time series of positions obtained
+in the two earlier steps to identify outliers and offsets or
+“jumps.” We removed outlier position estimates from the
+solution and covariance matrices used in the GLOBK Kalman filter analysis, and we accounted for offsets by allowing
+independent position estimates before and after the time of
+
+TC6014
+
+the offset. We used random walk variances of 1–4 mm2/yr2
+in the forward run of the GLOBK Kalman filter estimate site
+velocities and “realistic” uncertainties. Except where indicated otherwise, we quote uncertainties as 1‐sigma estimates
+(Table 1), but in Figures 3, 6, and 8 we show 95% confidence ellipses.
+[36] We defined the reference frame for velocity estimates
+in the third step, when we applied generalized constraints
+[Dong et al., 1998] and estimated the six parameters (three
+components of the rate of change of translation, three for
+rotation) that tie that reference frame to a global frame. In
+particular, we determined those six parameters by minimizing the horizontal velocities of 55 stable global IGS
+stations with respect to the ITRF2005 NNR frame and the
+rotated ITRF2005 EURA frame using the ITRF2005 angular
+velocity [Altamimi et al., 2007; Herring et al., 2009]. The
+weighted RMS fit of the horizontal velocities to the ITRF
+2005 EURA frame using 52 global sites as reference sites
+was 0.4 mm/yr. In Table 1, we present these velocities and
+associated 1‐sigma standard deviations.
+[37] Acknowledgments. Many people have contributed to the installation, maintenance, and measurement of the network, from its inception to
+the latest measurements, but one person, Yuri A. Trapeznikov, played a
+particularly important role before he died in 1999. A pioneer in GPS geodetic measurements in the former Soviet Union, he obtained permission to
+install GPS points, created the facilities to record and analyze data, orchestrated ambitious field campaigns, helped design the “Russian” mark, and
+made sure that the GPS network in the Kyrgyz and Kazakh Tien Shan became one of the best in the world. We also express special thanks to J. Klotz
+for the design of the “German” mark and many CATS site installations.
+Although many more people helped us than we can mention here, we
+thank K. Ye. Abdrakhmatov, S. A. Aldazhanov, D. Angermann, R. Arslanov, B. N. Bakka, J. Y. Chen, R. Galas, T. V. Guseva, M. C. Ishanov, K.
+B. Kalabaev, G. W. Michel, M. T. Prilepin, I. S. Sadybakasov, V. Ye. Tsurkov, and P. V. Yeremeyev for help and support of various kinds. We also
+thank A. K. Rybin and V. A. Zeigarnik, current and former directors of the
+Research Station, and H. Echtler and B. Moldobekov, codirectors of CAIAG,
+for encouraging and helping us to present these GPS data, and D. W. Burbank
+and P. C. England for constructive reviews of the paper. This research was
+supported by the Russian Foundation for Basic Research of the Russian
+Academy of Sciences, Russian Federation; by the National Science Foundation under grants EAR‐8915334, EAR‐9117889, EAR‐9614302, EAR‐
+9708618, and EAR‐0636092, by NASA through grants NAG5‐1941 and
+NAG5‐1947; by the Deutsches GeoForschungsZentrum in Potsdam; by
+the National Bureau of Surveying and Mapping (NBSM) in Beijing and
+Urumqi; and by the staff of the UNAVCO Facility for expert field engineering support and data archiving.
+
+References
+Abdrakhmatov, K. E., R. Weldon, S. Thompson,
+D. Burbank, C. Rubin, M. Miller, and P. Molnar
+(2001), Origin, direction, and rate of modern compression in the central Tien Shan, Kyrgyzstan, Geol.
+Geofiz., 42, 1585–1609.
+Abdrakhmatov, K. E., S. Thompson, and R. Weldon
+(2007), Active Tectonics of the Tien Shan (in Russian), 71 pp., Ilim, Bishkek.
+Abdrakhmatov, K. Y., et al. (1996), Relatively recent
+construction of the Tien Shan inferred from GPS
+measurements of present‐day crustal deformation
+rates, Nature, 384, 450–453, doi:10.1038/
+384450a0.
+Altamimi, Z., X. Collilieux, J. Legrand, B. Garayt, and
+C. Boucher (2007), ITRF2005: A new release of the
+International Terrestrial Reference Frame based on
+time series of station positions and Earth Orienta-
+
+tion Parameters, J. Geophys. Res., 112, B09401,
+doi:10.1029/2007JB004949.
+Argus, D. F., R. G. Gordon, M. B. Heflin, C. Ma, R. J.
+Eanes, P. Willis, W. R. Peltier, and S. E. Owen
+(2010), The angular velocities of the plates and
+the velocity of Earth’s centre from space geodesy,
+Geophys. J. Int., 180, 913–960, doi:10.1111/
+j.1365-246X.2009.04463.x.
+Arrowsmith, J. R., and M. R. Strecker (1999), Seismotectonic range‐front segmentation and mountain‐
+belt growth in the Pamir‐Alai region, Kyrgyzstan
+(India‐Eurasia collision zone), Geol. Soc. Am. Bull.,
+111, 1665–1683, doi:10.1130/0016-7606(1999)
+111<1665:SRFSAM>2.3.CO;2.
+Avouac, J. P., P. Tapponnier, M. Bai, H. You, and
+G. Wang (1993), Active thrusting and folding
+along the northern Tien Shan and Late Cenozoic
+
+21 of 23
+
+rotation of the Tarim relative to Dzungaria and
+Kazakhstan, J. Geophys. Res., 98, 6755–6804,
+doi:10.1029/92JB01963.
+Bazhenov, M. L. (1993), Cretaceous paleomagnetism of
+the Fergana Basin and adjacent ranges, central Asia:
+Tectonic implications, Tectonophysics, 221, 251–
+267, doi:10.1016/0040-1951(93)90335-H.
+Bogomolov, L., V. Bragin, A. Fridman, V. Makarov,
+G. Sobolev, E. Polyachenko, G. Schelochkov,
+V. Zeigarnik, and A. Zubovich (2007), Comparative
+analysis of GPS, seismic and electromagnetic data on
+the central Tien Shan territory, Tectonophysics, 431,
+143–151, doi:10.1016/j.tecto.2006.05.043.
+Bragin, V. D., V. Y. Batalev, A. V. Zubovich, A. N.
+Lobanchenko, A. K. Rybin, Y. A. Trapeznikov,
+and G. G. Schelochkov (2001), Signature of neotectonic movements in the geoelectric structure of the
+
+TC6014
+
+ZUBOVICH ET AL.: GPS VELOCITY FIELD FOR THE TIEN SHAN
+
+crust and seismicity distribution in the central Tien
+Shan, Russ. Geol. Geophys., 42, 1527–1537.
+Bullen, M. E., D. W. Burbank, J. I. Garver, and K. Y.
+Abdrakhmatov (2001), Late Cenozoic tectonic evolution of the northwestern Tien Shan: New age estimates for the initiation of mountain building, Geol.
+Soc. Am. Bull., 113, 1544–1559, doi:10.1130/00167606(2001)113<1544:LCTEOT>2.0.CO;2.
+Bullen, M. E., D. W. Burbank, and J. I. Garver (2003),
+Building the northern Tien Shan: Integrated thermal, structural, and topographic constraints, J.
+Geol., 111, 149–165, doi:10.1086/345840.
+Burtman, V. S. (1963), The Talaso‐Fergana and San
+Andreas strike‐slip faults, in Faults and Horizontal
+Movements of the Earth’s Crust (in Russian), edited
+by A. V. Peive, Tr. Geol. Inst. Akad. Nauk USSR,
+80, 128–151.
+Burtman, V. S. (1964), The Talaso‐Fergana Strike‐Slip
+Fault (in Russian), Tr. Geol. Inst. Akad. Nauk
+USSR, 104, 143 pp.
+Burtman, V. S. (1975), Structural geology of the Variscan Tien Shan, USSR, Am. J. Sci., 272A, 157–186.
+Burtman, V. S., and P. Molnar (1993), Geological and
+Geophysical Evidence for Deep Subduction of Continental Crust Beneath the Pamir, Spec. Pap. Geol.
+Soc. Am., 281, 76 pp.
+Burtman, V. S., S. F. Skobelev, and P. Molnar (1996),
+Late Cenozoic slip on the Talas‐Ferghana fault, the
+Tien Shan, central Asia, Geol. Soc. Am. Bull., 108,
+10 04 –1 02 1, do i:1 0.11 30 /0 01 6- 76 06 (1 99 6)
+108<1004:LCSOTT>2.3.CO;2.
+Calais, E., L. Dong, M. Wang, Z. Shen, and M. Vergnolle
+(2006), Continental deformation in Asia from a combined GPS solution, Geophys. Res. Lett., 33, L24319,
+doi:10.1029/2006GL028433.
+Charreau, J., Y. Chen, S. Gilder, S. Dominguez, J.‐P.
+Avouac, S. Sen, D. Sun, Y. Li, and W.‐M. Wang
+(2005), Magnetostratigraphy and rock magnetism
+of the Neogene Kuitun He section (northwest China): Implications for Late Cenozoic uplift of the
+Tianshan mountains, Earth Planet. Sci. Lett., 230,
+177–192, doi:10.1016/j.epsl.2004.11.002.
+Charreau, J., S. Gilder, Y. Chen, S. Dominguez, J.‐P.
+Avouac, S. Sen, M. Jolivet, Y. Li, and W. Wang
+(2006), Magnetostratigraphy of the Yaha section,
+Tarim Basin (China): 11 Ma acceleration in erosion
+and uplift of the Tian Shan mountains, Geology, 34,
+181–184, doi:10.1130/G22106.1.
+Charreau, J., J.‐P. Avouac, Y. Chen, S. Dominguez, and
+S. Gilder (2008), Miocene to present kinematics of
+fault‐bend folding across the Huerguosi anticline,
+northern Tianshan (China), derived from structural,
+seismic, and magnetostratigraphic data, Geology,
+36, 871–874, doi:10.1130/G25073A.1.
+Charreau, J., et al. (2009), Neogene uplift of the Tian
+Shan Mountains observed in the magnetic record
+of the Jingou River section (northwest China), Tectonics, 28, TC2008, doi:10.1029/2007TC002137.
+Chatelain, J.‐L., S. W. Roecker, D. Hatzfeld, and
+P. Molnar (1980), Microearthquake seismicity and
+fault plane solutions in the Hindu Kush region and
+their tectonic implications, J. Geophys. Res., 85,
+1365–1387, doi:10.1029/JB085iB03p01365.
+Chedia, O. K. (1986), Morphostructures and Neotectonics of the Tien Shan (in Russian), 314 pp., ILIM,
+Frunze, Kyrgyzstan.
+Cobbold, P. R., E. Sadybakasov, and J. C. Thomas
+(1996), Cenozoic transpression and basin development, Kyrgyz Tienshan, central Asia, in Geodynamic Evolution of Sedimentary Basins, edited by
+F. Roure et al., pp. 181–202, Ed. Technip, Paris.
+Coutand, I., M. R. Strecker, J. R. Arrowsmith, G. Hilley,
+R. C. Thiede, A. Korjenkov, and M. Omuraliev
+(2002), Late Cenozoic tectonic development of the
+intramontane Alai Valley, (Pamir‐Tien Shan region,
+central Asia): An example of intracontinental deformation due to the Indo‐Eurasia collision, Tectonics,
+21(6), 1053, doi:10.1029/2002TC001358.
+Cowgill, E. (2010), Cenozoic right‐slip faulting along
+the eastern margin of the Pamir salient, northwestern China, Geol. Soc. Am. Bull., 122, 145–161,
+doi:10.1130/B26520.1.
+
+Dong, D., T. A. Herring, and R. W. King (1998), Estimating regional deformation from a combination of
+space and terrestrial geodetic data, J. Geod., 72,
+200–214, doi:10.1007/s001900050161.
+Dow, J. M., R. E. Neilan, and C. Rizos (2009), The International GNSS Service in a changing landscape
+of global navigation satellite systems, J. Geod.,
+83, 191–198, doi:10.1007/s00190-008-0300-3.
+Engdahl, E. R., R. van der Hilst, and R. Buland (1998),
+Global teleseismic earthquake relocation with improved travel times and procedures for depth determination, Bull. Seismol. Soc. Am., 88, 722–743.
+England, P., and P. Molnar (2005), Late Quaternary to
+decadal velocity fields in Asia, J. Geophys. Res.,
+110, B12401, doi:10.1029/2004JB003541.
+Garzanti, E., and T. Van Haver (1988), The Indus clastics: Forearc basin sedimentation in the Ladakh
+Himalaya (India), Sediment. Geol., 59, 237–249,
+doi:10.1016/0037-0738(88)90078-4.
+Ghose, S., M. W. Hamburger, and C. J. Ammon (1998),
+Source parameters of moderate‐sized earthquakes
+in the Tien Shan, central Asia from regional moment tensor inversion, Geophys. Res. Lett., 25,
+3181–3184, doi:10.1029/98GL02362.
+Gu, G., T. Lin, Z. Shi, Q. Li, H. Wu, S. Li, Y. Yang,
+H. Chen, and S. Wang (Eds.) (1989), Catalogue of
+Chinese Earthquakes (1831 B. C.–1969 A. D.),
+872 pp., Science, Beijing.
+Guseva, T. G. (1986), Contemporary Movements of the
+Earth’s Crust in the Transition Zone From the
+Pamir to the Tien Shan (in Russian), 171 pp., Inst.
+Phys. Earth, Akad. Sci., Moscow.
+Hamburger, M. W., D. R. Sarewitz, T. L. Pavlis, and
+G. A. Popandopulo (1992), Structural and seismic
+evidence for intracontinental subduction in the Peter
+the First Range, central Asia, Geol. Soc. Am. Bull.,
+104, 397–408, doi:10.1130/0016-7606(1992)
+104<0397:SASEFI>2.3.CO;2.
+Heermance, R. V., J. Chen, D. W. Burbank, and J. Miao
+(2008), Temporal constraints and pulsed Late Cenozoic deformation during the structural disruption of
+the active Kashi foreland, northwest China, Tectonics, 27, TC6012, doi:10.1029/2007TC002226.
+Hendrix, M. S., T. A. Dumitru, and S. A. Graham
+(1994), Late Oligocene–early Miocene unroofing
+in the Chinese Tian Shan: An early effect of the India‐Eurasia collision, Geology, 22, 487–490,
+doi:10.1130/0091-7613(1994)022<0487:LOEMUI>2.3.CO;2.
+Herring, T. A. (2004), GLOBK: Global Kalman Filter
+VLBI and GPS Analysis Program Version 4.1,
+Mass. Inst. of Technol., Cambridge.
+Herring, T. A., B. H. Hager, B. Meade, and A. V.
+Zubovich (2002), Contemporary horizontal and
+vertical deformation in the Tien Shan, paper presented at International Seminar on the Use of
+Space Techniques for Asia‐Pacific Regional Crustal Movements Studies, GEOS, Moscow.
+Herring, T. A., R. W. King, and S. C. McClusky (2009),
+Introduction to GAMIT/GLOBK, Release 10.35,
+Mass. Inst. of Technol., Cambridge.
+Huang, B., J. D. A. Piper, S. Peng, T. Liu, Z. Li, Q. Wang,
+and R. Zhu (2006), Magnetostratigraphic study of the
+Kuche Depression, Tarim Basin, and Cenozoic uplift
+of the Tian Shan Range, western China, Earth
+Planet. Sci. Lett., 251, 346–364, doi:10.1016/j.
+epsl.2006.09.020.
+Huang, B., J. D. A. Piper, Q. Qiao, H. Wang, and
+C. Zhang (2010), Magnetostratigraphic and rock
+magnetic study of the Neogene upper Yaha section,
+Kuche Depression (Tarim Basin): Implications to
+formation of the Xiyu conglomerate formation,
+NW China, J. Geophys. Res., 115, B01101,
+doi:10.1029/2008JB006175.
+Jade, S., B. C. Bhatt, R. Bendick, V. K. Gaur, P. Molnar,
+M. B. Anand, and D. Kumar (2004), GPS measurements from the Ladakh Himalaya, India: Preliminary
+tests of plate‐like or continuous deformation in Tibet,
+Geol. Soc. Am. Bull., 116, 1385–1391, doi:10.1130/
+B25357.1.
+Ji, J., P. Luo, P. White, H. Jiang, L. Gao, and Z. Ding
+(2008), Episodic uplift of the Tianshan Mountains
+
+22 of 23
+
+TC6014
+
+since the late Oligocene constrained by magnetostratigraphy of the Jingou River section, in the southern margin of the Junggar Basin, China, J. Geophys.
+Res., 113, B05102, doi:10.1029/2007JB005064.
+Jin, X., J. Wang, B. Chen, and L. Ren (2003), Cenozoic
+deposits in the piedmont of the west Kunlun and
+their paleogeographic and tectonic implications,
+J. Asian Earth Sci., 21, 755–765, doi:10.1016/
+S1367-9120(02)00073-1.
+King, R. W., and Y. Bock (2004), Documentation of the
+MIT GPS Analysis Software: GAMIT, Mass, Inst. of
+Technol., Cambridge.
+Kondorskaya, N. V., and N. V. Shebalin (Eds.) (1977),
+New Catalog of Strong Earthquakes in the Territory
+of the USSR (in Russian), 535 pp., Nauka, Moscow.
+Konopaltsev, I. M. (1971a), Measurement of movement
+of the Earth’s crust in the Garm polygon (in Russian),
+Izv. Akad. Nauk, Fiz. Zemlyi, 6, 71–76.
+Konopaltsev, I. M. (1971b), Measurements of crustal
+movements in the Garm area, 1948–1970 (in Russian), Geotektonika, 5, 111–116.
+Kosarev, G. L., N. V. Petersen, L. P. Vinnik, and S. W.
+Roecker (1993), Receiver functions for the Tien
+Shan analog broadband network: Contrasts in the
+evolution of the structures across the Talasso‐Fergana fault, J. Geophys. Res., 98, 4437–4448,
+doi:10.1029/92JB02651.
+Kreydenkov, G. P., and V. A. Raspopin (1972), Paleogene of southern Kirgizia, in Geology of the USSR,
+vol. 25, Kirgiz SSR: Geological Description—Book
+1, edited by K. D. Pomazkov et al., pp. 237–250,
+Nedra, Moscow.
+Kuzichkina, Y. M. (1972), Jurassic system, in Geology
+of the USSR, vol. 25, Kirgiz SSR: Geological Description–Book 1, edited by K. D. Pomazkov et
+al., pp. 208–224, Nedra, Moscow.
+Kuzikov, S. I., and S. A. Mukhamediev (2010), Structure of the present‐day velocity field of the crust
+in the area of the central Asian GPS network, Izv.
+Phys. Solid Earth, 46(7), 584–601, doi:10.1134/
+S1069351310070037.
+Laverov, N. P., and V. I. Makarov (Eds.) (2005), Recent
+Geodynamics of Intracontinental Areas of Collision
+Mountain Building (Central Asia), 400 pp., Sci.
+World, Moscow.
+Li, Z., S. Roecker, Z. Li, B. Wei, H. Wang,
+G. Schelochkov, and V. Bragin (2009), Tomographic image of the crust and upper mantle beneath
+the western Tien Shan from the MANAS broadband
+deployment: Possible evidence for lithospheric delamination, Tectonophysics, 477, 49–57, doi:10.1016/
+j.tecto.2009.05.007.
+Maggi, A., J. A. Jackson, K. Priestley, and C. Baker
+(2000), A re‐assessment of focal depth distributions
+in southern Iran, the Tien Shan and northern India:
+Do earthquakes really occur in the continental mantle?, Geophys. J. Int., 143, 629–661, doi:10.1046/
+j.1365-246X.2000.00254.x.
+Makarov, V. I. (1977), New Tectonic Structures of the
+Central Tien Shan (in Russian), vol. 307, 171 pp.,
+Order of the Red Banner Geol. Inst., Akad. Sci.,
+Moscow.
+Makarov, V. I. (1995), Neotectonics and geodynamics
+of mountain systems of central Asia, Quat. Int.,
+25, 19–23, doi:10.1016/1040-6182(94)00031-Y.
+Makarov, V. I., et al. (2010), Underthrusting of Tarim
+beneath the Tien Shan and deep structure of their
+junction zone: Main results of seismic experiment
+along MANAS Profile Kashgar–Song‐Köl (in Russian), Geotektonika, 44, 23–42. (Geotectonics, Engl.
+Transl., 44, 102–126.)
+Meade, B. J. (2007), Present‐day kinematics at the India‐Asia collision zone, Geology, 35, 81–84,
+doi:10.1130/G22924A.1.
+Meade, B. J., and B. H. Hager (2001), The current distribution of deformation in the western Tien Shan
+from block models constrained by geodetic data,
+Geol. Geofiz., 42, 1622–1633.
+Mellors, R. J., G. L. Pavlis, M. W. Hamburger, H. J.
+Al‐Shukri, and A. A. Lukk (1995), Evidence for a
+high‐velocity slab associated with the Hindu Kush
+
+TC6014
+
+ZUBOVICH ET AL.: GPS VELOCITY FIELD FOR THE TIEN SHAN
+
+seismic zone, J. Geophys. Res., 100, 4067–4078,
+doi:10.1029/94JB02642.
+Mohadjer, S., et al. (2010), Partitioning of India‐Eurasia
+convergence in the Pamir‐Hindu Kush from GPS
+measurements, Geophys. Res. Lett., 37, L04305,
+doi:10.1029/2009GL041737.
+Molnar, P., and Q. Deng (1984), Faulting associated with
+large earthquakes and the average rate of deformation in central and eastern Asia, J. Geophys. Res.,
+89, 6203–6227, doi:10.1029/JB089iB07p06203.
+Molnar, P., and S. Ghose (2000), Seismic moments of
+major earthquakes and the rate of shortening across
+the Tien Shan, Geophys. Res. Lett., 27, 2377–2380,
+doi:10.1029/2000GL011637.
+Nelson, M. R., R. McCaffrey, and P. Molnar (1987),
+Source parameters for 11 earthquakes in the Tien
+Shan, central Asia, determined by P and SH
+waveform inversion, J. Geophys. Res., 92,
+12,629–12,648, doi:10.1029/JB092iB12p12629.
+Nikonov, A. A. (1974), Contemporary and Holocene
+seismotectonic dislocations in the South Tien Shan
+seismically active zone (in Russian), Izv. Akad.
+Sci. USSR Earth Phys., 12, 71–76.
+Nikonov, A. A. (1975), An analysis of tectonic movements along the Hindu Kush‐Darvaz‐Karakul fault
+zone in Late Pliocene and Quaternary time (in Russian), Bull. MOIP Geol. Sec., 50(2), 5–23.
+Nikonov, A. A. (1977), Holocene and Contemporary
+Movements of the Earth’s Crust (in Russian), 240
+pp., Nauka, Moscow.
+Nikonov, A. A., A. V. Vakov, and I. A. Veselov (1983),
+Seismotectonics and Earthquake Zones Near the
+Pamir and Tien Shan (in Russian), 240 pp., Nauka,
+Moscow.
+Oreshin, S., L. Vinnik, D. Peregoudov, and S. Roecker
+(2002), Lithosphere and asthenosphere of the Tien
+Shan imaged by S receiver functions, Geophys.
+Res. Lett., 29(8), 1191, doi:10.1029/2001GL014441.
+Pavlis, G. L., and S. Das (2000), The Pamir‐Hindu Kush
+seismic zone as a strain marker for flow in the upper
+mantle, Tectonics, 19, 103–115, doi:10.1029/
+1999TC900062.
+Peive, A. V., V. S. Burtman, S. V. Ruzhentsev, and
+A. I. Suvorov (1964), Tectonics of the Pamir‐Himalayan sector of Asia, in Report of the Twenty Second
+Session, India, International Geological Congress,
+Part XI: Himalayan and Alpine Orogeny, edited
+by M. V. Muratov, pp. 441–464, Int. Geol. Congress, New Delhi.
+Reigber, C., G. W. Michel, R. Galas, D. Angermann,
+J. Klotz, J. Y. Chen, A. Papschev, R. Arslanov,
+V. E. Tzurkov, and M. C. Ishanov (2001), New space
+geodetic constraints on the distribution of deformation in central Asia, Earth Planet. Sci. Lett., 191,
+157–165, doi:10.1016/S0012-821X(01)00414-9.
+Reilinger, R., et al. (2006), GPS constraints on continental deformation in the Africa‐Arabia‐Eurasia
+continental collision zone and implications for the
+dynamics of plate interactions, J. Geophys. Res.,
+111, B05411, doi:10.1029/2005JB004051.
+Richter, C. F. (1958), Elementary Seismology, 768 pp.,
+W. H. Freeman, San Francisco, Calif.
+Roecker, S. W. (1982), Velocity structure of the Pamir‐
+Hindu Kush region: Possible evidence for subducted crust, J. Geophys. Res., 87, 945–959,
+doi:10.1029/JB087iB02p00945.
+Roecker, S. W., T. M. Sabitova, L. P. Vinnik, Y. A.
+Burmakov, M. I. Golvanov, R. Mamatkanova, and
+L. Munirova (1993), Three‐dimensional elastic
+wave velocity structure of the western and central
+Tien Shan, J. Geophys. Res., 98, 15,779–15,795,
+doi:10.1029/93JB01560.
+Ruzhentsev, S. V. (1963), Strike‐slip faults of the
+southeastern Pamir, in Faults and Horizontal Movements of the Earth’s Crust (in Russian), edited by
+A. V. Peive, Tr. Geol. Inst. Akad. Nauk USSR, 80,
+113–127.
+Sadybakasov, I. (1990), Neotectonics of High Asia (in
+Russian), 176 pp., Nauka, Moscow.
+Savarenskii, E. F., S. L. Solov’ev, and D. A. Kharin
+(1962), Atlas of Earthquakes in the USSR: Results
+From Observed Networks of Seismic Stations of
+
+the USSR 1911–1957 (in Russian), 337 pp., Nauka,
+Moscow.
+Scharer, K. M., D. W. Burbank, J. Chen, R. J. Weldon,
+C. Rubin, R. Zhao, and J. Shen (2004), Detachment
+folding in the southwestern Tian Shan–Tarim foreland, China: Shortening estimates and rates,
+J. Struct. Geol., 26, 2119–2137, doi:10.1016/j.
+jsg.2004.02.016.
+Schwab, M., et al. (2004), Assembly of the Pamirs: Age
+and origin of magmatic belts from the southern Tien
+Shan to the southern Pamirs and their relation to
+Tibet, Tectonics, 23, TC4002, doi:10.1029/
+2003TC001583.
+Shen, Z.‐K., M. Wang, Y. Li, D. D. Jackson, A. Yin,
+D. Dong, and P. Fang (2001), Crustal deformation
+along the Altyn Tagh fault system, western China,
+from GPS, J. Geophys. Res., 106, 30,607–30,621,
+doi:10.1029/2001JB000349.
+Shultz, S. S. (1948), Analysis of Neotectonics and Relief of the Tien Shan (in Russian), 222 pp., OGIS,
+Moscow.
+Sinitsyn, N. M. (1960), Tectonics of the Mountain
+Frame of Ferghana, 218 pp., Leningrad Univ.
+Press, Leningrad, Russia.
+Sinitsyn, V. M. (1962), Paleogeography of Asia, 68 pp.,
+Akad. Nauk, Moscow.
+Sobel, E. R., and T. A. Dumitru (1997), Thrusting and
+exhumation around the margins of the western
+Tarim Basin during the India‐Asia collision, J. Geophys. R es., 10 2, 5 04 3– 50 63 , do i: 10 .1 0 29 /
+96JB03267.
+Sobel, E. R., M. Oskin, D. Burbank, and A. Mikolaichuk
+(2006a), Exhumation of basement‐cored uplifts: Example of the Kyrgyz Range quantified with apatite
+fission track thermochronology, Tectonics, 25,
+TC2008, doi:10.1029/2005TC001809.
+Sobel, E. R., J. Chen, and R. V. Heermance (2006b),
+Late Oligocene–Early Miocene initiation of shortening in the southwestern Chinese Tian Shan:
+Implications for Neogene shortening rate variations,
+Earth Planet. Sci. Lett., 247, 70–81, doi:10.1016/j.
+epsl.2006.03.048.
+Strecker, M. R., W. Frisch, M. W. Hamburger,
+L. Ratschbacher, S. Semiletkin, A. Zamoruyev, and
+N. Sturchio (1995), Quaternary deformation in the
+eastern Pamirs, Tadzhikistan and Kyrgyzstan, Tectonics, 14, 1061–1079, doi:10.1029/95TC00927.
+Strecker, M. R., G. E. Hilley, J. R. Arrowsmith, and
+I. Coutand (2003), Differential structural and geomorphic mountain‐front evolution in an active
+continental collision zone: The NW Pamir, southern
+Kyrgyzstan, Geol. Soc. Am. Bull., 115, 166–181,
+doi:10.1130/0016-7606(2003)115<0166:
+DSAGMF>2.0.CO;2.
+Sun, J., and Z. Zhang (2009), Syntectonic growth strata
+and implications for late Cenozoic tectonic uplift in
+the northern Tian Shan, China, Tectonophysics,
+463, 60–68, doi:10.1016/j.tecto.2008.09.008.
+Sun, J., R. Zhu, and J. Bowler (2004), Timing of the
+Tianshan Mountains uplift constrained by magnetostratigraphic analysis of molasse deposits, Earth
+Planet. Sci. Lett., 219, 239–253, doi:10.1016/
+S0012-821X(04)00008-1.
+Sun, J., Y. Li, Z. Zhang, and B. Fu (2009), Magnetostratigraphic data on Neogene growth folding in the
+foreland basin of the southern Tianshan Mountains,
+Geology, 37, 1051–1054, doi:10.1130/G30278A.1.
+Tapponnier, P., and P. Molnar (1979), Active faulting
+and Cenozoic tectonics of the Tien Shan, Mongolia
+and Baykal regions, J. Geophys. Res., 84, 3425–
+3459, doi:10.1029/JB084iB07p03425.
+Thatcher, W. (2007), Microplate model for the present‐
+day deformation of Tibet, J. Geophys. Res., 112,
+B01401, doi:10.1029/2005JB004244.
+Thomas, J.‐C., H. Perroud, P. R. Cobbold, M. L.
+Bazhenov, V. S. Burtman, A. Chauvin, and
+E. Sadybakasov (1993), A paleomagnetic study of
+Tertiary formations from the Kyrgyz Tien‐Shan
+and its tectonic implications, J. Geophys. Res., 98,
+9571–9589, doi:10.1029/92JB02912.
+Thompson, S. C., R. J. Weldon, C. M. Rubin,
+K. Abdrakhmatov, P. Molnar, and G. W. Berger
+
+23 of 23
+
+TC6014
+
+(2002), Late Quaternary slip rates across the central
+Tien Shan, Kyrgyzstan, central Asia, J. Geophys.
+Res., 107(B9), 2203, doi:10.1029/2001JB000596.
+Trifonov, V. G., V. Makarov, and S. F. Skobelev
+(1992), The Talas‐Fergana active right‐lateral fault,
+Ann. Tecton., 6, 224–237.
+Trifonov, V. G., E. V. Artjushkov, A. E. Dodonov,
+D. M. Bachmanov, A. V. Mikolaichuk, and F. A.
+Vishniakov (2008), Pliocene‐Quaternary mountain‐building in the central Tien Shan (in Russian),
+Geol. Geofiz., 49, 128–145.
+Ulomov, V. I. (1974), Dynamics of the Earth’s Crust and
+Prediction of Earthquakes (in Russian), 214 pp., Fan,
+Tashkent.
+Vinnik, L. P., A. A. Lukk, and I. L. Nersesov (1977),
+Nature of the intermediate seismic zone in the mantle of the Pamirs—Hindu‐Kush, Tectonophysics,
+38, T9–T14, doi:10.1016/0040-1951(77)90208-6.
+Vinnik, L. P., S. Roecker, G. L. Kosarev, S. I. Oreshin,
+and I. Y. Koulakov (2002), Crustal structure and
+dynamics of the Tien Shan, Geophys. Res. Lett.,
+29(22), 2047, doi:10.1029/2002GL015531.
+Wolfe, C. J., and F. L. Vernon III (1998), Shear‐wave
+splitting at central Tien Shan: Evidence for rapid
+variation of anisotropic patterns, Geophys. Res.
+Lett., 25, 1217–1220, doi:10.1029/98GL00838.
+Yang, S., J. Li, and Q. Wang (2008), The deformation
+pattern and fault rate in the Tianshan Mountains inferred from GPS observations, Sci. China Ser. D,
+51, 1064–1080.
+Yin, A., S. Nie, P. Craig, T. M. Harrison, F. J. Ryerson,
+X. Qian Xianglin, and G. Yang (1998), Late Cenozoic tectonic evolution of the southern Chinese
+Tian Shan, Tectonics, 17, 1–27, doi:10.1029/
+97TC03140.
+Zhu, B., W. S. F. Kidd, D. B. Rowley, B. S. Currie, and
+N. Shafique (2005), Age of initiation of the India‐
+Asia collision in the east‐central Himalaya, J. Geol.,
+113, 265–285, doi:10.1086/428805.
+Zubovich, A. V., V. I. Makarov, S. I. Kuzikov, O. I.
+Mosienko, and G. G. Shchelochkov (2007), Intracontinental mountain building in central Asia as inferred from satellite geodetic data (in Russian),
+Geotektonika, 41, 16–29. (Geotectonics, Engl.
+Transl., 41, 13–25.)
+R. T. Beisenbaev, Seismological Experimental‐
+Methodical Expedition, 050060, Almaty, Kazakhstan.
+V. D. Bragin, S. I. Kuzikov, and G. G. Schelochkov,
+Research Station of the Russian Academy of Sciences,
+720049 Bishkek, Kyrgyzstan.
+Y. Dang, Chinese Academy of Surveying and
+Mapping, 100830 Beijing, China.
+B. H. Hager, T. A. Herring, and R. Reilinger,
+Department of Earth, Atmospheric, and Planetary
+Sciences, Massachusetts Institute of Technology,
+Cambridge, MA 02139, USA.
+M. W. Hamburger, Department of Geological
+Sciences, Indiana University, 1001 East 10th St.,
+Bloomington, IN 47405‐1405, USA.
+J. Li and X. Wang, Earthquake Administration of
+the Xinjiang Uygur Autonomous Region, 830011
+Urumqi, China.
+V. I. Makarov, Institute of Environmental
+Geosciences, Russian Academy of Sciences, P.O. Box
+145, Moscow, 101000, Russia.
+W. Michajljow and C. Reigber, Department 1,
+Deutsches GeoForschungsZentrum, Telegrafenberg,
+D‐14473 Potsdam, Germany.
+P. Molnar, Department of Geological Sciences,
+University of Colorado, Boulder, CO 80309, USA.
+(peter.molnar@colorado.edu)
+O. I. Mosienko and A. V. Zubovich, Department of
+Technical Infrastructures and Data Management,
+Central Asian Institute for Applied Geosciences,
+720027 Bishkek, Kyrgyzstan.
+Y. G. Scherba, National Center of Space Researches
+and Technologies, National Space Agency of the
+Republic of Kazakhstan, Shevchenko St. 15, 050010,
+Almaty, Kazakhstan.
+
+
